@@ -58,4 +58,106 @@ Un acte de bravoure, exceptionnel pour son sexe, valut à Sémiramis d'être dis
 
 *) Diod. Sic., 2., 6.
 
+Peu de temps après, Ninus, ayant eu de Sémiramis un fils nommé Ninyas, mourut, et la laissa souveraine de l'empire.* Suivant d'autres écrivains, il se retira en Crète, lui laissant le champ libre en Assyrie.* Une troisième version de la légende raconte encore différemment l'élévation de Sémiramis. Elle en fait une courtisane introduite à cause de sa rare beauté comme concubine dans le harem de Ninus. Lois de la célébration des Sacées,* Sémiramis obtient de s'asseoir sur le trône comme reine de la fête ; alors elle donne l'ordre de jeter le monarque en prison et de le mettre à mort ; et c'est ainsi qu'elle s'empare du pouvoir.*
+
+*) _Ibid._, 7.
+
+*) Mos. Choren., 1., 16.
+
+*) Sur cette fête célèbre, voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 167-174.
+
+*) Diod. Sic., 2., 20 ; Ælian., _Var. hist._, 7., 1.
+
+Ninus fut enterré sons une pyramide haute de 9 stades et large de 10 à la base, dans le palais de Ninive. Quant à Sémiramis, une fois eu possession de la puissance suprême, elle donna l'essor à son génie naturellement entreprenant. Jalouse de surpasser la gloire de son époux, elle conçut le dessein de bâtir sur le bas Euphrate une ville immense ; ce fut Babylone, qui n'existait pas jusqu'alors.*
+
+*) Diod. Sic., 2., 7.
+
+Ctésias rapportait à Sémiramis, conformément à la légende, toutes les grandes constructions de Babylone, les murs, auxquels il donnait la hauteur fabuleuse de 50 orgyies et une largeur suffisante pour faire passer six chars de front,* les quais et le pont de l'Euphrate, les deux palais, dont il donnait une description très-exacte,* le grand lac artificiel situé en amont de la ville et dans lequel on avait détourné l'Euphrate pendant la construction du tunnel qui reliait les deux palais par-dessous le fleuve, enfin la pyramide regardée comme le tombeau de Bélus.* Cependant il reconnaissait que les fameux jardins suspendus « n'étaient pas l'œuvre de Sémiramis, mais d'un roi syrien postérieur, qui les avait élevés pour une de ses femmes.* » Mais il racontait que Sémiramis avait encore construit de nombreuses villes destinées à servir de marchés le long de l'Euphrate et du Tigre, et qu'elle avait fait apporter par eau, des montagnes de l'Arménie, un obélisque prodigieux, haut de 130 pieds et large de 25, qu'elle avait dressé à la porte de Babylone.* Justin parle aussi de la construction de Babylone par cette reine fameuse.*
+
+*) _Ibid._
+
+*) _Ibid._, 8.
+
+*) _Ibid._, 9.
+
+*) _Ibid._, 10.
+
+*) _Ibid._, 11.
+
+*) Justin., 1., 2.
+
+Sémiramis, après avoir achevé ces ouvrages dans la Babylonie, entreprit une expédition contre les Mèdes, qui s'étaient révoltés. Elle soumit de nouveau leur pays et y laissa des monuments immortels de son passage. Arrivée au pied du mont Bagistan, elle y créa un _paradis_ merveilleux, et sur une des parois de la montagne, formée de rochers taillés à pie d'une hauteur effrayante, elle fit sculpter son image entourée de celle de cent de ses gardes, avec une inscription racontant ses exploits. Auprès de Chavon, elle fit établir un autre _paradis_ entourant un rocher de dimensions extraordinaires, et elle s'y arrêta longtemps, se livrant à tous les plaisirs, tandis que son armée campait aux environs. Elle ouvrit une route taillée dans le roc au travers du mont Zarcæus. Diodore lui attribue aussi la fondation d'Ecbatane et de son palais. Comme la ville manquait d'eau el qu'il n'y avait aucune source dans le voisinage, elle amena à grands frais et à l'aide de travaux prodigieux une eau pure et abondante dans tous les quartiers. Pour cela elle perça le mont Oronte et y creusa un tunnel de 15 pieds de largeur sur 40 de hauteur, qui communiquait avec un lac situé de l'autre côté de la montagne.*
+
+De la Médie, Sémiramis se dirigea vers la Perse et parcourut toutes les autres contrées qu'elle possédait dans l'Asie. En Arménie elle éleva, près du lac de Van, une ville qui fut appelée Sémiramocerte, avec un palais immense.* Partout où elle allait, elle perçait les montagnes, brisait les rochers, pratiquait de grandes et belles routes. Dans les plaines, elle érigeait des tertres qui servaient de tombeaux à ses généraux morts pendant l'expédition.* D'autres disaient qu'elle les avait élevés en prévision d'un déluge futur.* Mais une version beaucoup plus répandue en faisait les tombeaux de ses amants mis à mort.* La légende, dans toutes ses formes, était en effet unanime pour attribuer à Sémiramis de nombreuses débauches. Ayant toujours refusé, disait-on, de contracter un nouveau mariage légitime, elle prenait pour ses amants les plus beaux hommes de son armée, et quand son caprice était une fois satisfait, elle les faisait tuer.* On allait plus loin, et on lui attribuait d'étranges amours avec un cheval, pour lequel elle s'était enflammée d'une passion violente.*
+
+*) Diod. Sic., 2., 13.
+
+*) Mos. Choren., 1., 16.
+
+*) Diod. Sic., 2. 14.
+
+*) Syncell., p. 64, C.
+
+*) Ctes. _ap._ Johan. Antioch., Cramer, _Anced. Paris_, t. 2, p. 386 ; Syncell., p. 64, C.
+
+L'Asie parcourue, Sémiramis se rendit en Egypte, car ce pays faisait aussi partie de son empire. De là elle alla visiter l'oracle d'Ammon, qui lui prédit qu'elle disparaîtrait miraculeusement du milieu des hommes et serait honorée comme une divinité, après que son fils Ninyas aurait conspiré contre sa vie. Elle fit ensuite la conquête de l'Éthiopie, dont elle admira les fabuleuses merveilles.*
+
+Mais la soumission de l'Éthiopie n'avait pas demandé de combats, et Sémiramis brûlait de l'ambition d'ajouter la gloire militaire à toute sa renommée. Elle résolut donc d'entreprendre la conquête de l'Inde, dont les immenses richesses excitaient d'ailleurs sa convoitise. Stabrobatis, roi des Indiens, averti des préparatifs inouïs de la reine d'Assyrie, mit sur pied des forces considérables, puis défia Sémiramis elle-même, dans une lettre où il lui reprochait ses débauches, et la menaçait de la mettre en croix s'il était vainqueur. Sémiramis n'en attaqua pas moins le monarque indien, et parvint d'abord à forcer le passage de l'Indus. Mais dans la grande bataille qui s'ensuivit, les éléphants de Stabrobatis lui assurèrent la victoire. La reine elle-même fut blessée, son armée mise en fuite et détruite aux deux tiers ; mais les Indiens, par l'ordre des dieux, ne la poursuivirent pas au delà du fleuve.* Quand Mégasthène, ambassadeur de Séleucus à la cour de Pàtalipoutra (la Palibothra des Grecs), consulta les chroniques et les traditions nationales des Indiens, il n'y trouva aucune trace de l'expédition de Sémiramis. Mais n'osant pas révoquer en doute l'existence de cette reine, à laquelle tous les Grecs croyaient fermement de son temps, il supposa qu'elle avait dù mourir avant de pouvoir réaliser son projet d'attaque contre cette partie lointaine de l'Asie.*
+
+*) Diod. Sic., 2., 13.
+
+*) Jub. _ap._ Plin., _Hist. nat._, 8., 42, 64.
+
+*) Diod. Sic., 2., 14.
+
+*) _Ibid._, 16-20.
+
+*) Strab., 15., p. 687 ; Arrian., _Indie._, 5, 4.
+
+C'est au retour de la campagne si tristement terminée dans l'Inde, qu'on racontait que Sémiramis avait été en butte à une conspiration des deux fils issus de son mariage avec Oannès, lesquels sont nommés Hyapatès et Hydaspès.* Révoltés des désordres de leur mère et excités par l'eunuque Satibaras, les deux jeunes gens avaient résolu de l'assassiner ; prévenue, Sémiramis les fit mettre à mort.*
+
+Au reste, à la suite de cet échec, elle rentra dans ses États, d'où elle ne sortit plus. Elle poursuivit l'exécution de ses vastes travaux ; et telles furent l'activité et la renommée de cette reine qu'après elle, suivant Strabon, tout grand ouvrage en Asie lui fut attribué par la voix populaire.* Alexandre trouva, raconte-t-on, son nom inscrit sur les frontières de la Scythie, alors considérée comme la borne du monde habité. C'est cette inscription dont le texte prétendu nous a été conservé par Polyen* et dans laquelle Sémiramis, parlant d'elle-même, se serait exprimée ainsi : « La nature m'a donné le corps d'une femme, mais mes actions m'ont égalée au plus vaillant des hommes. J'ai régi l'empire de Ninus qui vers l'Orient touche au fleuve Hinamanès (évidemment celui que la plupart des géographes anciens nomment Etymander), vers le sud au pays de l'encens et de la myrrhe, vers le nord aux Saces et aux Sogdiens. Avant moi, aucun Assyrien n'avait vu de mers ; j'en ai vu quatre, que personne n'abordait, tant elles étaient éloignées. J'ai contraint les fleuves de couler où je voulais, et je ne l'ai voulu qu'aux lieux où ils étaient utiles : j'ai rendu féconde la terre stérile en l'arrosant de mes fleuves. J'ai élevé des forteresses inexpugnables, j'ai percé avec le fer des routes à travers les rochers impraticables. J'ai frayé a mes chariots des chemins que les bêtes féroces elles-mêmes n'avaient pas parcourus. Et au milieu de ces occupations, j'ai trouvé du temps pour mes plaisirs et pour mes amours. »
+
+Cependant, ayant appris que son fils Ninyas lui tendait des embûches, Sémiramis se souvint des prédictions de l'oracle d'Ammon et prit le parti d'abdiquer. Loin de punir le conspirateur, elle lui remit l'empire, ordonna à tous les gouverneurs d'obéir au nouveau souverain, puis elle disparut, changée en colombe, au milieu d'un vol de ces oiseaux. Les Assyriens en firent une déesse et rendirent, à cause d'elle, des honneurs divins à la colombe.* D'autres récits la font tuer par son fils Ninyas.* On disait même que celui-ci l'avait frappée dans son horreur pour la passion incestueuse dont elle le poursuivait.* Quant à la tradition arménienne, elle avait pris un caractère tout local. Elle prétendait que Sémiramis résidait à Sémiramocerte, sur le lac de Van, quand Zoroastre, qu'elle avait institué satrape d'Assyrie, se révolta et marcha contre elle. Elle s'enfuit alors presque seule dans les montagnes de l'Arménie, où elle fut tuée par son fils Ninyas.*
+
+*) Diod. Sic., 2., 5.
+
+*) Nicol. Damasc. _ap._ C. Müller, _Fragm. historic. græc._, t. 3, p. 356 ; Cephalion _ap._ Euseb., 
+_Armen. chron._, p. 41, ed. Mai, _et ap._ Mos. Choren., 1., 17.
+
+*) Strab., 16., p. 737.
+
+*) _Stratagem._, 8., 26.
+
+La chronologie rattachée à ces récits n'est pas moins fabuleuse que la légende elle-même. Elle place Ninus et Sémiramis, avec leurs immenses conquêtes et leur empire qui embrasse toute l'Asie, dans un temps où il n'était pas encore même question d'une monarchie assyrienne.* Ctésias comptait 33 règnes et 1306 ans de durée entre Ninus et Sardanapale,* et plaçait le détrônement de ce dernier roi par Arbace en 876 avant notre ère* ; cela reporte Ninus en 2182 et concorde exactement avec l'autre affirmation du même écrivain qu'il était de mille ans antérieur à la prise de Troie.* Velleius Paterculus* et Justin* donnent le même calcul emprunté à la même source. Pour Castor de Rhodes, la chute de Ninive est de 843 avant notre ère et l'avénement de Ninus se place 1280 ans plus tôt,* c'est-à-dire en 2123. Quant à Céphalion, Sardanapale est, dans son système, inscrit en 1150 et la durée de l'empire depuis Ninus de 1013 ans,* ce qui reporte le fondateur en 2163. On voit que tous ces calculs reviennent, à bien peu de chose près, à la même date, qui était évidemment donnée par la légende et qui en avait le caractère fantastique.
+
+*) Diod. Sic., 2., 20.
+
+*) Cephalion _ap._ Euseb., _Armen. chron._, p. 41, ed. Mai, _et ap._ Mos. Choren., 1., 17.
+
+*) Justin., 1., 2.
+
+*) Mos. Choren., 1., 16.
+
+*) Nous ne pouvons pas ici donner incidemment un récit des premiers temps de la royauté assyrienne, tels que les documents indigènes nous mettent à même de les reconstituer aujour-d'hui, en nous faisant connaître les traits principaux de cette antique histoire. Nous nous bornerons donc à renvoyer le lecteur aux deux résumés les plus récents qui aient été donnés de l'état actuel de la science sur ce point : celui de M. Smith dans les derniers numéros de l'année 1868 de la _Zeitschrift für Ægyptische Sprache und Alterthumskunde_ de M. Lepsius ; et celui de notre _Recueil de l'histoire ancienne de l'Orient_, 3e édition (1869), t. 2., pp. 55 et suiv.  
+Rappelons seulement qu'un peu avant l'année 1800 av. J.-C. --- 701 ans avant _Tuklati-pal-as'ar_ 1er, d'après le témoignage formel du prisme de ce dernier prince (col. 7, l. 60-73 : _Cuneiform inscriptions of Western Asia_, t. 1., pl. 15) --- il n'y avait pas encore de rois d'Assyrie, mais des pontifes (_patesi_) du dieu _As's'ur_ régnant sur la ville d'_Al-As's'ur_, la [HEBREW] de la Bible, aujour-d'hui Kalah-Scherghât.  
+Le plus ancien roi d'Assyrie proprement dit, _s'ar As's'ur_, que nous connaissions vivait environ 1400 ans avant l'ère chrétienne. Babylone fut soumise à la suzeraineté ninivite, tout en gardant ses rois propres, par _Tuklati-Samdan_ 1er, vers 1270 seulement. Et ceci coïncide fort exactement avec ce que dit Hérodote (1., 95) que la puissance des Assyriens en Asie commença 520 ans avant l'époque où les Mèdes se rendirent indépendants. Nous nous sommes, en effet, efforcé de prouver ailleurs (dons la première de nos _Lettres assyriologiques_) que ce dernier événement devait être placé entre 750 et 745 av. J.-C.  
+_Adar-pal-as'ar_, dont il est dit (_Cuneif. inscr. of West. As._, t. 1., pl. 15, col. 7, l. 56-59) que « il organisa le pays d'Assyrie ... et institua le premier les armées d'Assyrie, » est voisin de 1210, et les grandes conquêtes débutent seulement au douzième siècle, encore avec un développement bien loin d'approcher de celui qu'elles recurent de la fin du dixième siècle au commencement du septième.
+
+*) Diod. Sic., 2., 21 et 28 ; Syncell., p. 359, C ; Agathias, 2., 25 ; Augustin, _De civit. Dei_, 18., 21.
+
+*) Diod. Sic., 2., 32-34 ; Agathias, 2., 25.
+
+*) Diod. Sic., 2., 28.
+
+*) 1., 6, 6.
+
+*) 1., 3.
+
+*) _Ap._ Euseb., _Armen. chron._, p. 36, ed. Mai.
+
+*) Euseb., _Armen. chron._, p. 41-44, ed. Mai ; Syncell., pp. 167 et 168.
+
+---
+
 ...
