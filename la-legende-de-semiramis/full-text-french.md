@@ -16,6 +16,14 @@
 
 ---
 
+# [1\.]()
+
+# [2\.]()
+
+...
+
+---
+
 Parmi les légendes relatives à l'ancienne histoire de l'Asie, il n'en est pas qui ait eu une fortune plus brillante que celle de Ninus et de Sémiramis. Elle fut popularisée par Ctésias chez les Grecs, dont le goût pour le merveilleux s'en empara avidement, la trouvant bien plus agréable que les récits _vrais_ d'Hérodote. Toute l'antiquité classique y ajouta foi, et depuis la renaissance des lettres les érudits, acceptant implicitement l'idée que cette légende reposait sur un fondement historique véritable, n'ont point songé à en révoquer en doute les faits essentiels, jusqu'au jour où le déchiffrement des textes cunéiformes a révélé d'une manière positive et inattendue que l'histoire de Ninus et de Sémiramis, leurs exploits, leurs immenses conquêtes, n'étaient qu'un tissu de fables puériles, démenti sur tous les points par les faits réels des origines de la monarchie assyrienne.
 
 C'est là un des résultats les plus considérables et les plus positifs qui soient ressortis pour la science historique de l'admirable découverte due au génie pénétrant de Hincks, de sir Henry Rawlinson et de M. J. Oppert, un des faits les mieux établis par les travaux de ces trois fondateurs des études assyriologiques et de ceux qui ont essayé depuis de marcher sur leurs traces. Nous pouvons suivre maintenant la royauté assyrienne dans ses modestes débuts et dans son développement progressif, déterminer l'époque de ses premières conquêtes et celle où elle atteignit l'apogée de sa puissance, et nous n'y voyons rien qui ressemble, même de loin, à cet empire immense, étendu sur toute l'Asie antérieure par le premier de ses rois et se conservant intact pendant une longue suite de siècles, tel qu'il se présentait dans les récits de Ctésias. Mais en même temps l'étude des documents originaux de l'Assyrie, qui n'ont commencé à sortir de terre que dans le dernier demi-siècle et dont on n'est parvenu que depuis bien peu d'années à pénétrer le sens, en nous fournissant des renseignements certains sur la religion commune aux Assyriens et aux Babyloniens, permet de discerner clairement un mythe religieux sous cette légende longtemps considérée comme historique.
@@ -159,5 +167,17 @@ _Adar-pal-as'ar_, dont il est dit (_Cuneif. inscr. of West. As._, t. 1., pl. 15,
 *) Euseb., _Armen. chron._, p. 41-44, ed. Mai ; Syncell., pp. 167 et 168.
 
 ---
+
+2\.
+
+Il est facile de discerner deux éléments, l'un épique et l'autre religieux, dans la formation de cette célèbre légende, qui, nous l'avons déjà dit tout à l'heure, avait surtout pris un grand développement sous les Perses et que leur politique exploitait à leur profit, mais qui avait également cours chez les peuples sémitiques, et dont le fond premier, nous l'avons dit aussi et nous allons essayer de le démontrer dans un instant, devait ne pas être étranger aux Assyriens eux-mêmes, car il se rattachait à des mythes de leur religion.
+
+Au point de vue des souvenirs historiques confondus et groupés dans un seul ensemble par l'imagination populaire, et transformés en épopée, Ninus, son nom même l'indique suffisamment, est le héros éponyme de la ville de Ninive, la personnification de cette ville et de sa puissance ; sous son nom les récits de la tradition orale ont groupé tous les exploits, toutes les conquêtes des rois des différentes dynasties assyriennes, et même, car ces récits amplifient toujours, des conquêtes que n'a jamais faites aucun monarque de Ninive, comme celle de la Bactriane, et dans une autre direction celle des provinces occidentales de l'Asie Mineure. De même que les expéditions militaires ont été réunies autour du nom de Ninus, bien qu'on en ait aussi attribué à Sémiramis, la légende a surtout gratifié cette reine fabuleuse de la gloire de tous les travaux utiles ou gigantesques exécutés aux époques les plus diverses par des souverains asiatiques, quelle qu'eu fût l'origine.* Elle lui a attribué toutes les constructions de Babylone,* depuis celle de la pyramide de Bel, que les Babyloniens eux-mêmes rapportaient « au plus ancien roi, » jusqu'à celles du temps de _Nabu-kudurri-usur_ et de ses successeurs ; elle a placé de même sous son nom les travaux du roi Déjocès à Ecbatane,* et l'exécution des grandioses sculptures du mont Bagistan dans la Médie (aujourd'hui Behistoun), qui datent du règne de Darius fils d'Hystaspe.*
+
+*) Voy. notre _Manuel d'histoire ancienne de l'Orient_, 3e édit., t. 2., p. 50 et suiv.
+
+*) Ce qui put y contribuer pour une certaine part, c'est que des travaux considérables et d'une grande utilité avaient été réellement exécutés à Babylone, vers la fin du neuvième siècle avant notre ère, par une reine qu'Hérodote (1., 184) appelle Sémiramis et qu'il place fort exactement un siècle et demi avant Nitocris, la femme de son Labynète 1er, c'est-à-dire de _Nabu-bal-usur_ (Nabopolassar), roi de Babylone. « Sémiramis, dit le père de l'histoire, fit faire ces digues magnifiques qui retiennent l'Euphrate dans son lit et l'empêchent d'inonder la campagne autour de Babylone. » C'est la seule Sémiramis historique, et on l'a reconnue avec certitude dans la reine _Sammu-ramat_, femme du roi d'Assyrie _Bin-nirari_ 3, que mentionne l'inscription de la statue du dieu _Nabu_ découverte par M. Loftus à Nimroud et actuellement conservée au Musée Britannique (_Cuneif. inscr. of West. As._, t. 1, pl. 35, n° 2 ; voy. la représentation de la statue elle-même dans George Rawlinson, _The five great monarchies of the ancient eastern world_, 1re édit., t. 1., p. 179). Cette reine parait avoir été une princesse babylonienne de naissance, épousée par le monarque assyrien, qui aura régné de nom à Babylone en même temps que son mari à Ninive, et que les Babyloniens auront plus tard enregistrée seule dans leurs annales nationales. Voy. notre _Manuel d'histoire ancienne de l'Orient_, 3e édit., t. 2., p. 76.
+
+*) Herodote, 1., 98.
 
 ...
