@@ -168,7 +168,7 @@ _Adar-pal-as'ar_, dont il est dit (_Cuneif. inscr. of West. As._, t. 1., pl. 15,
 
 ---
 
-2\.
+# 2\.
 
 Il est facile de discerner deux éléments, l'un épique et l'autre religieux, dans la formation de cette célèbre légende, qui, nous l'avons déjà dit tout à l'heure, avait surtout pris un grand développement sous les Perses et que leur politique exploitait à leur profit, mais qui avait également cours chez les peuples sémitiques, et dont le fond premier, nous l'avons dit aussi et nous allons essayer de le démontrer dans un instant, devait ne pas être étranger aux Assyriens eux-mêmes, car il se rattachait à des mythes de leur religion.
 
