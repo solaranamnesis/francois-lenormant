@@ -20,6 +20,8 @@
 
 # [2\.](#2-1)
 
+# [3\.](#3-1)
+
 ...
 
 ---
@@ -179,5 +181,166 @@ Au point de vue des souvenirs historiques confondus et groupés dans un seul ens
 *) Ce qui put y contribuer pour une certaine part, c'est que des travaux considérables et d'une grande utilité avaient été réellement exécutés à Babylone, vers la fin du neuvième siècle avant notre ère, par une reine qu'Hérodote (1., 184) appelle Sémiramis et qu'il place fort exactement un siècle et demi avant Nitocris, la femme de son Labynète 1er, c'est-à-dire de _Nabu-bal-usur_ (Nabopolassar), roi de Babylone. « Sémiramis, dit le père de l'histoire, fit faire ces digues magnifiques qui retiennent l'Euphrate dans son lit et l'empêchent d'inonder la campagne autour de Babylone. » C'est la seule Sémiramis historique, et on l'a reconnue avec certitude dans la reine _Sammu-ramat_, femme du roi d'Assyrie _Bin-nirari_ 3, que mentionne l'inscription de la statue du dieu _Nabu_ découverte par M. Loftus à Nimroud et actuellement conservée au Musée Britannique (_Cuneif. inscr. of West. As._, t. 1, pl. 35, n° 2 ; voy. la représentation de la statue elle-même dans George Rawlinson, _The five great monarchies of the ancient eastern world_, 1re édit., t. 1., p. 179). Cette reine parait avoir été une princesse babylonienne de naissance, épousée par le monarque assyrien, qui aura régné de nom à Babylone en même temps que son mari à Ninive, et que les Babyloniens auront plus tard enregistrée seule dans leurs annales nationales. Voy. notre _Manuel d'histoire ancienne de l'Orient_, 3e édit., t. 2., p. 76.
 
 *) Herodote, 1., 98.
+
+*) Il faut cependant remarquer que Ker-Porter (_Travels_, t. 2., p. 151 et suiv.) signale sur le rocher de Behistoun, et dans une position plus basse, un second bas-relief, dont il trouvait le style analogue à celui du grand bas-relief de Darius, mais presque effacé et difficile à distinguer. On serait tenté de croire que c'est à cette sculpture que faisait allusion la légende recueillie par Ctésias, car on a quelque peine à admettre que l'origine d'un monument de Darius fils d'Hystaspe fût déjà complétement oubliée du temps d'Artaxerxe Mnémon. Mais aucun autre voyageur ne parle de ce second bas-relief et l'on n'en voit pas de trace dans la grande vue du rocher de Behistoun que MM. Coste et Flandin ont donnée dans leur ouvrage sur la _Perse ancienne_.
+
+C'est là le côté non assyrien de la légende sous la forme où Ctésias l'a recueillie. Ce sont les broderies poétiques que l'imagination des peuples voisins a superposées au vieux mythe religieux venu de l'Assyrie, en y greffant les souvenirs gigantesques, mais confus et sans chronologie, que leur avait laissés la puissance du grand empire qui les avait si longtemps tenus sous le joug. En effet, si les Assyriens avaient des héros éponymes à l'origine de leurs cités et des légendes épiques sur les premiers temps de leur nation,* ils connaissaient parfaitement leur histoire à partir du moment où elle prenait un caractère positif, tous les textes en font foi, et ils possédaient une chronologie parfaitement régulière. Ce ne sont donc pas eux qui ont fait les incroyables confusions d'époques dont est formé le tissu de cette narration, ou du moins cette partie épique de la légende n'aurait pu naître chez eux et s'ajouter au fond mythologique que très-tard, après la chute de leur nation et la ruine des grands colléges sacerdotaux où se conservaient les annales historiques.
+
+*) Nous trouvons un précieux débris de ces légendes assyriennes de héros éponymes dans un passage d'Abydène qui nous a été conservé par Eusèbe (_Armen. chron._, p. 36, ed. Mai) : _Fuit Ninus Arbeli, Chaali, Arbeli, Anebi, Babii, Beli regis Assyriorum_. Le même passage est reproduit par Moïse de Khorène (1., 4) : _Ninus ortus Arbelo, Chaealus Arbelo ; is Anebi, is Babio, is Belo_.  
+Quelques remarques sur l'origine première de ces données sont ici nécessaires. Abydène parait avoir suivi dans son livre la marche suivante. Après avoir exposé l'histoire de la Babylonie en résumant Bérose jusqu'au règne d'Alexandre le Grand, il racontait l'histoire des Assyriens conformément au système de Ctésias, sur lequel les Grecs n'élevaient aucun doute, en la commençant à Ninus et en la finissant à Sardanapale. C'est ce qui ressort du témoignage formel d'Eusèbe (_Armen. chron._, p. 36, éd. Mai) : _Abydeni de regno Assyriorum. Chaldaei regionis suae reges ab Aloro usque ad Alexandrum hoc pacto enumerant. Nini quidem et Samiramidis nullam rationem habent. His autem dictis ita suam historiam exorditur._ Suit la phrase que nous venons de citer sur la généalogie de Ninus, puis le texte reprend. _Deinde adcurate reges enumerat a Nino et a Samiramide ad Sardanapallum, qui omnium extremus fuit : a quo ad primam Olympiadem sexaginta et septem anni putantur. De Assyriorum regno hac diligentia scripsit Abydenus. Nihilominus et Castor primo libro summarii chronicorum eadem plane ad literam narrat de regno Assyriorum._ Il semblerait, du reste, d'après la phrase (_Chaldaei_) _Nini et Samiramidis nullam rationem habent_, qu'Abydène faisait ressortir la contradiction des deux récits de Bérose et de Ctésias, trop frappante pour ne pas être remarquée de quiconque essayait de les mettre en parallèle. Pour la date de Sardanapale il suivait le même système que Castor de Rhodes, soit qu'il la lui eût empruntée, soit que Castor l'ait, au contraire, copiée dans Abydène. Mais il s'en écartait considérablement pour le reste de l'histoire, ainsi qu'on peut s'en convaincre en étudiant l'extrait de Castor donné par Eusèbe (_Armen. chron._, p. 36, ed. Mai) immédiatement après celui d'Abydène et la liste des rois d'Assyrie dans les _Excerpta barbara_ publiés par Scaliger (_De emend. tempor._, p. 74), liste qui procède certainement de Castor par l'intermédiaire de Jules l'Africain. Castor faisait suivre immédiatement Bélus par Ninus, tandis qu'Abydène plaçait, comme on vient de le voir, plusieurs noms dans l'intervalle. Castor ne finissait pas la liste royale avec Sardanapale, mais lui donnait un successeur, Ninus 2 ; Abydène, conformément à Ctésias, présentait Sardanapale comme le dernier de tous, _omnium extremus_, et faisait coïncider la destruction de l'empire avec sa mort.  
+Mais d'où pouvait provenir la série de rois qui nous a conduit à nous occuper ici du livre d'Abydène et que cet auteur insérait entre Bélus et Ninus ? Or n'est certainement pas de Ctésias, puisque aucun autre des auteurs qui ont parlé de l'histoire d'Assyrie d'après le médecin d'Artaxerxe ne connaît ces rois. D'ailleurs cette courte liste offre un tout autre caractère que la longue liste de Ctésias, au commencement de laquelle Abydène l'avait artificiellement greffée.  
+Le canon des rois assyriens de Ctésias, que nous ne connaissons, du reste, qu'un peu altéré, puisque les deux versions d'Eusèbe et du Syncelle ne s'accordent pas de tous points et contiennent trois princes de plus que le nombre indiqué par Diodore, le canon de Ctésias se compose de noms purement de fantaisie. Les uns sont iraniens et ont certainement été copiés par Ctésias dans les chroniques perses qu'il consultait, comme _Arius_ (4e), _Aralius_ (5e), _Xerxes_ (6e), _Armamithres_ (7), _Mithræus_ (25e) ; d'autres, en bien petit nombre, qui ont du être empruntés aux mêmes chroniques, ont une certaine physionomie assyrienne et proviennent probablement de traditions populaires, comme _Sardanapallus_ (36e), qui rappelle _As's'ur-bani-pal_. Nous avons été longtemps porte à rattacher à cette catégorie _Belochus_ (18e), à qui nous trouvions beaucoup d'analogie avec un nom que nous lisions alors _Bin-liχχus'_ ; mais le rapprochement n'est plus possible aujourd'hui que des exemples positifs établissent pour ce nom royal la lecture _Bin-nirari_. Il est à remarquer que les rares noms auxquels nous venons de faire allusion ont précisément une analogie frappante avec ceux de conquérants assyriens qui eurent affaire aux peuples aryens et durent par conséquent laisser chez eux un souvenir ; seulement ils sont mis tout à fait en dehors de leur vraie place historique. Mais à côté nous voyons des noms purement grecs qu'il est bien difficile de ne pas croire inventés par Ctésias lui-même pour remplir les lacunes des chroniques perses ; tels sont ceux d'_Amyntas_ (17e), _Lamprides_ (20e), _Panyas_ (23e), _Laosthenes_ (31e), _Peritiades_ (32e). Une dernière catégorie, surtout dans la dernière partie de la liste, est formée de noms géographiques, tous empruntés à des fleuves ou à des canaux de la Babylonie, _Dercylus_ (29e), _Ophratæus_ (33e), _Ophratanes_ (34e), _Acragunes_ (35e), sans compter les noms pris à l'histoire d'Égypte, on ne sait pourquoi, comme _Sethos_ (10e suivant le Syncelle) et _Lampares_ (22e). Ce que cette liste offre de plus frappant, c'est qu'elle ne renferme pas un seul élément historique réel, confirmé par les monuments.  
+Dans le fragment que nous avons cité, au contraire, nous trouvons une série d'éponymes de cités véritablement assyriennes, caractère que ne présente aucun des noms de Ctésias ; ces noms sont rangés dans un ordre géographique régulier, et par leur ordre même ils expriment un fait historique véritable, qu'atteste en termes formels le chapitre 10 de la Genèse, d'accord avec tous les monuments, la marche de la civilisation remontant le cours du Tigre depuis Babylone jusqu'à Ninive. Une donnée historique aussi exacte et aussi précise, et qui contraste si nettement avec les fables perses recueillies par Ctésias, ne peut manquer d'avoir eu une source réellement assyrienne ; elle a été puisée dans les documents indigènes, et en dehors de Bérose, aucun écrivain de la littérature grecque n'a été aussi bien informé. Or, Abydène travaillait d'après deux auteurs, Bérose et Ctésias. Quand nous rencontrons chez lui un renseignement sur les origines de l'Assyrie qui n'appartient certainement pas à Ctésias et qui se distingue de ses fables par un caractère de tradition réellement indigène, nous sommes en droit d'en attribuer l'origine à Bérose, d'autant plus que l'historien de la Chaldée semble avoir mentionné à son point de vue Ninus et Sémiramis (Euseb. _Armen. chron._, p. 18. ed. Mai) et par conséquent avoir fait, au moment où les Assyriens apparaissaient dans les annales de Babylone, un retour en arrière sur leurs traditions légendaires et les débuts de leurs annales.  
+C'est à M. Oppert qu'appartient le mérite d'avoir reconnu, dès le _Rapport ou ministre de l'instruction publique_ où il a exposé (en 1856) les premiers résultats de ses travaux, le véritable caractère de la petite liste que nous avons sous les yeux et d'y avoir montré d'une manière certaine des noms de villes disposés dans un ordre géographique régulier correspondant à une réalité historique. Mais avant lui, Ottfried Müller l'avait déjà soupçonné, dans sa dissertation intitulée : _Sandon und Sardanapal_, qui a paru au tome 3 de la première série du _Rheinisches Museum für Philologie_. Au reste, il suffit de jeter les yeux sur cette liste, avec les connaissances que nous commençons à avoir sur la géographie antique de la Babylonie et de l'Assyrie, pour y rceonnaître des noms de villes à peine altérés par leur hellénisation et par les copies successives ; quant à la régularité de l'ordonnance géographique remontant du sud au nord, elle est aussi saisissante dès que l'on corrige l'erreur manifeste de la répétition du nom d'_Ar-belus_ dans Eusèbe et dons Moïse de Khorène, d'après le Syncelle (pp. 151, 154 et 155) qui a inséré de la façon la plus bizarre cette liste de rois, très-exactement reproduite, mais retournée dans l'ordre inverse, entre le vingt-septième et le vingt-huitième nom du canon de Ctésias.  
+Voici en effet de quelle façon le document que nous considérons comme emprunté à Bérose par Abydène marque, au moyen des éponymes des principales villes, les étapes de la civilisation remontant, avec la domination du peuple des Nemrodites ou Kouschites (voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 43), de la Babylonie dans l'Assyrie.  
+Noms des Rois Éponymes:|Noms Assyriens des Villes:  
+Babius.|_Babilu._  
+Anebus.|_Nipur._  
+Chaalus ou Chalaüs.|_Kalaχ._  
+Arbelus.|_Arbait._  
+Ninus.|_Ninua._  
+Le parallélisme des deux ordres de noms est assez frappant pour n'avoir pas besoin d'autre commentaire. Quant à Bélus, c'est le dieu _Bel_, qui figure à bon droit en tête, avant le héros éponyme de Babylone, car la tradition nationale, attestée par les monuments et enregistrée par Bérose (Euseb., _Armen. chron._, p. 27, ed. Mai ; _Praepar. Evan._, 9., 41) lui attribuait la fondation de cette ville.  
+Que les Assyriens, dont l'histoire positive commençait fort tard en comparaison de celle des Babyloniens, aient eu sur les premiers temps de leur existence nationale et sur leurs origines des traditions épiques, des légendes héroïques où les mythes religieux se mèlaient à des souvenirs assez fidèlement conservés, c'est ce dont il n'est pas possible de douter, et la tradition de Ninus et de Sémiramis, que nous étudions dans ce mémoire, suffirait à le prouver. Mais un passage extrêmement curieux qui se répète dans plusieurs inscriptions de _S'ar-yukin_ montre de plus que, à l'époque culminante de leur puissance, l'orgueil des Assyriens était parti de ces traditions légendaires pour se targuer d'une antiquité rivale de celle de Babylone, et pour placer en tête de l'histoire d'Assyrie, avant les princes d'un caractère véritablement authentique comme les pontifes-souverains (_patesi_) de la ville d'_Al-As's'ur_ et les rois leurs successeurs, d'interminables dynasties mythiques. Le vainqueur de Samarie, dit en effet, dans l'inscription des Taureaux de Khorsabad (Oppert, _Inscriptions de Dour-Sarkayan_, p. 6 : l. 57-59) et dans celle des Barils (_Cuneiform inscriptions of Western Asia_, t. 1., pl. 36, l. 35 ; Oppert, _Inscriptions de Dour-Sarkayan_, p. 16) : _CCCL tan malki labiruti s'a ellamua belut As's'ur ebus'u va iltanapparu ba'lat Bel_, « il y a eu en tout 350 rois antérieurs, qui ont exercé la domination sur l'Assyrie avant moi et ont illustré l'empire de Bel. » D'après ce qui résulte des fragments de Bérose et du témoignage des monuments indigènes (voy. le canon royal que nous en avons extrait dans ta troisième de nos _Lettres assyriologiques_), il y avait eu seulement avant _S'ar-yukin_ quarante-sept rois historiques en huit siècles ; l'époque des pontifes d'_Al-As's'ur_ avait duré environ six à sept siècles, et par suite on ne peut pas l'évaluer à plus de trente-cinq à quarante règnes. Restent au moins deux cent soixante rois mythiques sur les trois cents cinquante dont parle le fondateur de Khorsabad. En supposant que l'on ait attribué une durée humaine à tous les règnes et qu'il n'y en ait pas eu qui aient correspondu à d'énormes périodes, comme les premiers rois chaldéens, c'est toujours environ sept mille ans d'antiquité que _S'ar-yukin_ prétendait revendiquer pour sa couronne. On notera que le monarque assyrien fait aussi partir du dieu _Bel_ la naissance de l'empire. C'est une preuve de plus de l'origine réellement assyrienne de la donnée qu'Abydène nous a conservée, et par suite de l'emprunt que cet auteur a dû en faire à Bérose.  
+Mais si le témoignage des inscriptions de Khorsabad contribue ainsi à démontrer la haute valeur du fragment de liste qui vient de nous occuper dans cette note, en tant que provenant bien d'une source assyrienne, le fragment conservé par Eusèbe et par Moïse de Khorène d'après Abydène éclaircit d'une manière fort précieuse le dire des inscriptions de Khorsabad. Il nous renseigne en effet sur le caractère des légendes nationales de l'Assyrie et sur la nature de ses rois mythiques, en montrant que les fables y étaient essentiellement épiques et que les rois comptés dans les âges antéhistoriques, au lieu d'être, comme à Babylone, des personnifications astronomiques et zodiacales, étaient les héros éponymes des cités assyriennes, identifiés sans doute comme Ninus avec le grand dieu de chaque culte local. Et nous voyons en même temps que la part considérable que les mythes religieux devaient tenir dans la légende héroïque assyrienne n'empêchait pas cette légende de contenir des souvenirs historiques très-réels, confirmés par d'autres sources.
+
+Remarquons de plus que si l'étendue des conquêtes attribuées à Ninus et à Sémiramis excède celle de l'empire assyrien à toutes les époques, la liste des provinces soumises à Ninus, telle que la donnait Ctésias est précisément celle des provinces composant l'empire des Achéménides à partir de Darius, fils d'Hystaspe, telle que nous la lisons dans Hérodote* et dans l'inscription du tombeau de Darius à Nakch-i-Roustam,* ainsi qu'au début du fameux texte de Behistoun (cette dernière liste est un peu moins étendue que celle de Nakch-i-Roustam, car elle ne comprend pas les provinces ajoutées à l'empire par Darius lui-même). Nous sommes avertis par là que ce côté de la légende a dû être systématiquement amplifié par la politique des Perses afin d'arriver à une aussi exacte coïncidence. En effet, il est facile de discerner à quel point de vue et dans quelle intention les monarques Achéménides avaient donné un caractère officiel au travestissement de l'histoire assyrienne dont Ctésias s'est fait le complaisant écho. La politique de ces rois avait un intérêt capital à faire ainsi remonter jusqu'à la plus haute antiquité l'exemple d'un empire maintenu sur les nations de l'Asie par l'obéissance qu'inspirait le nom du souverain, fût-il enseveli dans ses plaisirs et invisible au fond de son palais ; maintenu aussi par une politique ombrageuse qui ne permettait pas à ses sujets de contrées diverses d'acquérir une expérience complète du métier des armes et de se connaître dans les camps, mais envoyait dans chaque province les agents de son pouvoir absolu. Comme ils se prétendaient substitués aux droits de l'empire assyrien, en prêtant à cet empire un semblable caractère et en le représentant comme ayant eu dès l'origine l'étendue de celui à la tête duquel ils étaient placés, ils donnaient à leur propre domination, fondée sur la force des armes, l'autorité d'une tradition bien des fois séculaire et un caractère de véritable légitimité.
+
+*) 3., 90-97.
+
+*) Oppert, _Les inscriptions des Achéménides_, pp. 248 et suiv. ; _Expédition en Mésopotamie_, t. 2., pp. 167 et 174-176.
+
+De là ce que le même système d'histoire légendaire ajoutait pour continuer les annales de l'empire assyrien. Ninyas, disait-on,* avait succédé à sa mère Sémiramis. Ce prince n'avait pas eu les mœurs guerrières de ses prédécesseurs ; uniquement occupé de ses plaisirs, il avait mené au fond de son harem une vie pacifique et obscure ; il s'était borné à assurer la sécurité de son empire et à maintenir ses sujets dans l'obéissance, en tenant sur pied une armée nombreuse, levée annuellement dans toutes les provinces. Il rassemblait ses troupes près de Ninive, donnait à chaque nation un gouverneur très-dévoué à sa personne, puis, à la fin de l'année, il congédiait ses soldats, que d'autres, en nombre égal, venaient remplacer. Ce renouvellement incessant de l'armée empêchait qu'il ne sè formât des relations trop intimes entre les chefs et les soldats, et prévenait tout complot contre le souverain. D'un autre côté, en se rendant invisible, il voilait à tous les regards sa vie voluptueuse ; et, comme s'il eût été un dieu, personne n'osait en mal parler. Ses successeurs, continuait le récit admis à la cour de Perse, ses successeurs, jusqu'à Sardanapale, l'avaient imité ; aussi ces rois étaient-ils restés ensevelis dans la plus complète obscurité. Mais pendant près de treize cents ans ils s'étaient succédé tranquillement, sans que leur pouvoir fût jamais contesté ni que l'étendue de leurs domaines reçût aucune atteinte.
+
+Nous avons déjà remarqué tout à l'heure que cette durée de treize cents ans est entièrement fabuleuse et nous fait remonter à plusieurs siècles avant qu'il fût question des rois d'Assyrie. Mais autant qu'on peut, dans l'état actuel de la science, discerner les faits principaux au milieu du crépuscule historique qui enveloppe encore les premiers temps des annales de l'Assyrie, ce chiffre de treize siècles coïncide approximativement avec le résultat total de l'addition que l'on ferait en ajoutant à la durée des rois assyriens proprement dits l'étendue probable de la période antérieure, où les pontifes de la ville d'_Al-As's'ur_ constituaient le seul lien national entre les cités assyriennes, régies par des chefs différents. Ainsi toute l'histoire de l'Assyrie semble avoir été présentée par les rois de Perse pour l'instruction de leurs sujets, comme celle d'un seul et même empire, gouverné pendant treize cents ans par une même dynastie, empire dont l'unité et l'autorité n'auraient jamais été contestées, et dont ils auraient eux-mêmes été les héritiers et les successeurs. C'est de cette manière que chez tous les peuples, et particulièrement chez ceux qui ont le malheur d'être courbés sous le joug du pouvoir absolu, l'intérêt politique a bien souvent fait écrire l'histoire officielle.
+
+*) Diod. Sic., 2. 21.
+
+# 3\.
+
+L'étude du côté religieux de cette tradition poétique, mieux conservée dans la figure de Sémiramis que dans celle de Ninus, offre plus d'intérêt, car c'est la part la plus antique et la plus incontestablement assyrienne du récit.
+
+Sémiramis n'est pas un personnage humain, c'est une divinité que la légende transporte, comme il arrive si souvent en pareil cas, dans le domaine des événements humains. Diodore dit formellement qu'elle était adorée comme déesse ; Athénagore* et Lucien* l'attestent également. Diodore ajoute que son culte avait deux siéges principaux, l'Assyrie et la ville d'Ascalon chez les Philistins. Aussi Eckhel* a-t-il reconnu son image avec certitude sur les monnaies frappées dans cette dernière ville du temps des empereurs romains, monnaies où l'on voit une déesse debout sur la proue d'un navire, la tête couronnée de tours, tenant une lance, et ayant à côté d'elle une colombe et un autel. Une autre monnaie du même temps et de la même cité la représente armée de la lance et tenant la colombe sur sa main, debout sur sa mère Dercéto, figurée moitié femme et moitié poisson conformément à la description de Diodore.*
+
+Sémiramis est en effet encore bien nettement caractérisée comme déesse par sa qualité de fille de Dercéto, ainsi que par les traditions sur sa naissance et sa métamorphose finale, qui ont gardé toute leur couleur mythologique. Tel que nous l'avons lu, rapporté par Diodore d'après Ctésias, le récit de l'origine et de la première éducation de Sémiramis, nourrie et couvée par les colombes, n'est que la version poétique d'un vieux mythe des religions de l'Asie, que d'autres écrivains nous ont conservé sous sa forme la plus simple. Un œuf, disait-on, tomba jadis du ciel dans le fleuve de l'Euphrate ; des poissons l'apportèrent sur la rive, des colombes le couvèrent, et de sa coquille sortit Aphrodite.* Il faut rapprocher de ce mythe la tradition, fort peu orthodoxe au point de vue de la rigueur des principes mosaïques, mais admise pourtant par un grand nombre de rabbins, d'après laquelle la Sagesse créatrice ([HEBREW]) planait sous la forme d'une colombe au-dessus des eaux qui portaient la terre, au moment de sa création.* Là encore, la colombe présente le caractère de la force créatrice qui couve l'œuf du monde, à la façon d'un oiseau ; c'est « l'esprit amoureux de ses propres principes, » [GREEK], de la cosmogonie de Sanchoniathon.* Et en vertu de ce mythe, emprunté aux religions voisines, les Samaritains, sur le mont Garizim, adoraient Jéhovah sous la forme d'une colombe, en tant qu'étant la sagesse qui a créé le monde.*
+
+*) _Leg. pro christian._, 26.
+
+*) _De dea Syr._, 14 et 33.
+
+*) _Doctr. num. vet._, t. 3., p. 445.
+
+*) Vaillant, _Numism. græc. imper. rom._, pl. 14., n° 9.
+
+Le poisson et la colombe, que nous trouvons ensemble dans le récit de la naissance de Sémiramis et dans le mythe rapporté par Hygin, sont deux symboles qui jouent le plus grand rôle dans les religions de l'Asie et s'y présentent en rapport avec les formes infiniment variées de la divinité féminine.
+
+La déesse Syro-Philistine [HEBREW], que les Grecs ont appelée tantôt Dercéto et tantôt Atergatis, mais en appliquant plus spécialement le premier nom au culte d'Ascalon et le second au culte de l'Assyrie, ce qui semble révéler une différence dans les prononciations locales, cette déesse que la légende donnait pour la mère de Sémiramis, était adorée à Ascalon comme un être ichthyomorphe.* Et Diodore ajoute qu'on nourrissait dans l'étang de son temple des poissons sacrés. Tout un cycle de légendes se rattachait à cette forme donnée à la déesse. On a vu plus haut celle qui, dans Diodore, la montre se jetant dans le lac après avoir tué son amant. Les Lydiens racontaient qu'un de leurs compatriotes, Mopsus, précipita un jour la cruelle reine Atergatis, avec Ichthys (le poisson), son fils, dans ce même étang voisin d'Ascalon, où ils devinrent la proie des poissons.* A Bambyce, suivant une autre forme de la tradition, un grand poisson sauva un jour Dercéto, tombée dans le lac auprès du temple. De ce poisson naquirent deux autres poissons, comme lui révérés, et placés entre les astres, où le grand boit l'eau qui s'épanche de l'urne du Verseau.* La grande déesse d'Hiérapolis ou Bambyce était en effet [HEBREW] ; son nom est ainsi écrit en caractères araméens sur la monnaie d'un dynaste de cette ville, contemporain des Achéménides,* justifiant le rapport de Strabon,* qui dit qu'on l'appelait Atargatis ou Athara. Elle était adorée dans cette ville fameuse par son caractère de sainteté, sous une forme entièrement humaine.* Mais dans l'étang qui avoisinait son sanctuaire, comme la plupart de ceux de la Syrie et de la Phénicie,* on élevait en son honneur des poissons sacrés.* Aussi était-il interdit à ses prêtres de manger du poisson, et celle abstinence était commune à tous les sacerdoces de la Syrie.* Une telle prescription est à comparer à celle qui interdisait le même aliment aux prêtres égyptiens,* à certains prêtres de Posidon en Grèce,* aux initiés d'Eleusis, du moins à l'époque de la célébration des mystères* ; d'après un passage de Julien,* on serait porté à croire qu'il en était de même pour les Galles de la mère des dieux. L'interdiction de manger du poisson avait été adoptée par les Pythagoriciens.*
+
+*) Hygin., _Fab._, 197.
+
+*) F. Nork, _Biblische Mythologie_, t. 2., p. 297 ; Renan, _Mém. de l'Acad. des Inscr._, nouv. sér., t. 23., 2e part., p. 251.
+
+*) P. 8, ed. Orelli.
+
+*) P. Beer, _Geschichte, Lehren und Meinungen aller Sekten der Juden_, t. 1., p. 35.
+
+*) Diod. Sic., 2., 4 ; Lucian., _De dea Syr._, 14.
+
+*) Mnaseas _et_ Xanth. _ap._ Athen., 8., p. 346.
+
+*) Eratosthen., _Catasterism._, 38 ; Hygin., _Poet. astron._, 2., 41.
+
+*) Waddington, _Mélanges de numismatique_, t. 1., p. 90 ; pl. 7., n° 1.
+
+*) 16., pp. 748 et 785 ; cf. Xanth. _ap._ Hesych., v° [GREEK].
+
+*) Lucian., _De dea Syr._, 14 et 32.
+
+*) Voy. Movers, _Die Phœnizier_, t. 1., pp. 591 et suiv. ; pp. 666 et suiv.
+
+*) Lucian., _De dea Syr._, 45 ; Ælian., _Hist. anim._, 12., 2 ; Cornut., _De nat. deor._, 6, p. 18, ed. Osann.
+
+*) Artemidor., _Oneirocrit._, 1., 8 ; Xenoph. _Anabas._, 1., 4, 9 ; Cic., _De nat. deor._, 3. 15 ; Hygin., _Poet. astron._, 2., 30 et 41 ; Hygin., _Fab._, 197 ; Ovid., _Fast._, 2., v. 474, Porphyr., _De abstin. curn._, 2., 61, et 4., 15 ; Diod. Sic., 2., 4 ; Plutarch., _De superstit._, t. 6., p. 656, ed. Reiske ; Schol. _ad_ Germanic., _Arati phœnomen._, v. 240 ; Clem. Alex., _Protrept._, p. 34, ed. Potter ; cf. Selden, _De diis Syris_, Syntagm., 2., 2 ; Creuzer, _Symbolik_, 3e édit., t. 2., pp. 395 et 397 ; Movers, _Die Phœnizier_, t. 1., p. 591.
+
+*) Herodot., 2., 37 ; Plutarch., _De Is. et Osir._, t. 7., p. 393, éd. Reiske. --- Le témoignage de ces autours est confirmé par de nombreux passages des textes hiéroglyphiques.
+
+Mais à Ascalon les habitudes étaient toutes différentes. D'après le témoignage de Mnaséas, cité par Athénée,* les dévots offraient dans le temple de cette ville à la déesse Atergatis des poissons d'or et d'argent ; puis le même auteur ajoute : « Les prêtres chaque jour présentent à la déesse sur la table sacrée de vrais poissons tout préparés, cuits et grillés, qu'ils mangent eux-mêmes. » Cette offrande du poisson sacrifié à une déesse ichthyomorphe n'a rien qui doive nous surprendre ; dans l'esprit de toutes les religions antiques la victime est identifiée à la divinité à laquelle on l'immole.* L'animal choisi pour le sacrifice est l'animal sacré qui symbolise la divinité et lui sert d'attribut.
+
+Les rites du culte d'Atergatis ou Dercéto à Ascalon sont le commentaire naturel des représentations de quelques cylindres babyloniens où l'on voit un poisson servi sur la table d'offrandes entre un dieu et une déesse coiffés de la tiare royale et assis sur des trônes* ; ailleurs le poisson est servi devant un dieu coiffé de la tiare et assis, derrière lequel _Is'tar_ armée se tient debout.* M. de Longpérier a publié* un très-curieux cylindre sur lequel est figuré un prêtre faisant l'offrande d'un poisson à une divinité représentée sous la forme d'une hache. La notion à laquelle se rapporte cette scène avait passé dans les religions de l'Asie Mineure, si fortement marquées de l'empreinte assyro-chaldéenne. Élien,* en parlant du dieu adoré à Mylasa en Carie, dit qu'il existait dans l'enceinte sacrée de Labranda un bassin dans lequel vivaient des poissons apprivoisés qui portaient aux ouïes des pendants d'oreille. On connait la forme du _Zeus Labrandeus_ par les médailles frappées à Mylasa : c'est une divinité barbue, terminée en gaine et armée d'une bipenne et d'une lance.* Plutarque* nous apprend que le mot [GREEK] signifiait, dans la langue des Cariens, une hache ([GREEK]). Chez les Lydiens, cette arme était l'emblème du pouvoir suprême ; c'est encore Plutarque qui indique cette particularité, quand il raconte l'origine du dieu de Labranda.*
+
+*) Plutarch., _Sympos._, 8., 8 ; _De solert. anim._, t. 10., p. 92, ed. Reiske.
+
+*) Porphyr., _De abstin. carn._, 4., 16 ; Plutarch., _De solert. anim._, t. 10., p. 92, ed. Reiske ; Ælian., _Hist. anim._, 9., 51 ; voy. Sainte-Croix, _Mystères du paganisme_, 2e édit., t. 1., p. 280.
+
+*) _Orat._, 5., p. 176.
+
+*) Plutarch., _Sympos._, 8., 8 ; Eustath. _ad_ Homer., _Odyss._, M, p. 1720 ; cf. Lobeck, _Aglaopham._, p. 249 ; Creuzer, _Symbolik_, 3e édit., t. 2., p. 398.
+
+*) 8., p. 346.
+
+*) Voy. Ch. Lenormant, _Nouv. ann. de l'Inst. arch._, t. 1., p. 260.
+
+*) Lajard, _Culte de Mithra_, pl. 17., n° 4.
+
+*) _Ibid._, n° 10.
+
+*) _Bulletin archéologique de l'Athénæum français_, 1855, p. 101.
+
+*) _Hist. anim._, 12., 30 ; cf. Plin., _Hist. nat._, 32., 2, 7.
+
+Au reste, sur l'ensemble des rites du même genre et des idées auxquelles ils se rapportent, il faut consulter le remarquable mémoire consacré par M. le baron de Witte au _Sacrifice du poisson_.*
+
+On élevait encore des poissons sacrés en l'honneur de la Vénus phénicienne de Paphos.* Les médailles de Cypre à l'époque romaine montrent ces poissons dans un bassin circulaire en avant du temple de la déesse.* On en signale dans l'enceinte du temple de l'Astarté du Liban à Aphaca,* et à Sardes en Lydie.* M. Emmanuel Rey a publié un cylindre recueilli par lui sur l'emplacement de l'antique Sidon et sur lequel est figurée une série de poissons.*
+
+Ce symbolisme, et les idées sur lesquelles il se fondait, avait passé dans la religion des Grecs. M. le baron de Witte l'y a étudié spécialement dans sa dissertation sur _Aphrodite Colias_.* Au moment des Gigantomachies, quand les dieux prennent lu fuite, Vénus se sauve sous la forme d'un poisson.* Plusieurs mythographes racontent que Vénus se trouvant avec son fils sur les bords de l'Euphrate, l'approche de Typhon effraya ces deux divinités qui se jetèrent dans le fleuve et prirent la forme de deux poissons.* Dans certains mythes, au lieu de cette métamorphose, Vénus et l'Amour sont sauvés par deux poissons.* L'anchois ([GREEK]), que les anciens considéraient comme formé de l'écume ([GREEK]) de la mer, était consacré à Aphrodite.* Les Grecs appelaient aussi ce poisson ([GREEK]), nom qui rappelle l'Aphrodite [GREEK], adorée à Syracuse.* Ailleurs on signale comme consacrés à la même déesse le poisson [GREEK]* et le poisson [GREEK],* qu'Aphrodite tient à la main quand elle est représentée sous la forme de Colias.* Au lieu de naître de l'écume de la mer fécondée par les parties génitales d'Uranus ou de Cronos, comme dans les récits les plus connus, Aphrodite, d'après quelques autres mythographes, sort de l'œuf d'un poisson,* ce qui nous ramène au mythe asiatique de l'œuf tombé dans l'Euphrate et sorti de l'eau par des poissons. Dans d'autres récits, le poisson nommé [GREEK], et considéré par les anciens comme aphrodisiaque, nait en même temps qu'Aphrodite.* Aphros et Eurynome sont encore nommés comme parents d'Aphrodite.* Eurynome était une Océanide, et à Phigalie on voyait un xoanon qui la représentait moitié femme et moitié poisson, de la même manière que la Dercéto d'Ascalon ; des chaînes d'or la liaient, et il n'était permis qu'une fois l'an d'entrer dans son temple.*
+
+*) Ch. Lenormant, _Nouvelle galerie mythologique_, p. 54.
+
+*) Quæst. græc._, t. 7., p. 205, ed. Reiske.
+
+*) Nous comptons étudier plus tard, dans un mémoire spécial, cette notion du dieu-hache et les mythes qui s'y rattachent chez les peuples nombreux où elle s'était propagée.
+
+*) _Bullet. archéol. de l'Athén. franç._, 1856, pp. 36 et suiv.
+
+*) Plutarch., _De superstit._, t. 6., p. 674, ed. Reiske.
+
+*) Mionnet, _Description de médailles antiques, Supplément_, t. 7., p. 303, n° 1 ; p. 306, n° 3 ; _Monuments inédits publiés par la section française de l'Institut archéologique_, pl. 4., n°s 10, 11 et 12 ; voy. Lajard, _Nouv. ann. de l'Inst. arch._, t. 1., p. 207.
+
+*) Zosim., _Hist. eccles._, 1., 58.
+
+*) Lucian., _De dea Syr._, 45 ; Ælian., _Hist. anim._, 12., 2.
+
+*) _Étude géographique sur la tribu de Juda_, p. 114.
+
+*) _Nouv. ann. de l'Inst. arch._, t. 1., pp. 75-101.
+
+*) Ovid., _Metam._, 5., v. 351 ; Mythogr. Vatic., 1., 86.
+
+Le mulet, [GREEK], était consacré à Artémis ou à Hécate.* On regardait comme un sacrilége de pêcher les poissons qui se trouvaient dans les bassins de la source d'Aréthuse, en Sicile.*
+
+*) Hygin., _Poet. astron._, 2., 30 ; Manil., _Astron._, 2, v. 578 et 579.
+
+*) Ovid., _Fast._, 2., v. 461-474.
+
+*) Athen., 7., p. 326.
+
+*) Hesych., v° [GREEK].
+
+*) Athen., 7., p. 325 ; Eustath. _ad_ Homer. _Iliad._, A, p. 87.
+
+*) Athen., 3., p. 120.
+
+*) _Nouv. ann. de l'Inst. arch._, t. 1., pl. A, n° 2.
+
+*) Ampel., _Lib. memor._, 2.
+
+*) Epimenid., _ap._ Athen., 7., p. 282.
+
+*) Johan. Lyd., _De mens._, p. 89.
+
+*) Pausan., 8., 41, 4.
+
+*) Athen., 7., p. 325 ; Eustath. _ad_ Homer., _Iliad._, A, p. 87.
+
+*) Cic., _In Verr._, 4., 53 ; Diod. Sic., 5., 3 ; Schol. _ad_ Pindar., _Nem._ 1., v. 1 ; Plutarch., _De solert. anim._, t. 10., p. 63, ed. Reiske ; Ælian., _Hist. anim._, 8., 4.
 
 ...
