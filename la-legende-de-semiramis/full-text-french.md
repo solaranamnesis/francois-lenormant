@@ -22,6 +22,8 @@
 
 # [3\.](#3-1)
 
+# [4\.](#4-1)
+
 ...
 
 ---
@@ -342,5 +344,244 @@ Le mulet, [GREEK], était consacré à Artémis ou à Hécate.* On regardait com
 *) Athen., 7., p. 325 ; Eustath. _ad_ Homer., _Iliad._, A, p. 87.
 
 *) Cic., _In Verr._, 4., 53 ; Diod. Sic., 5., 3 ; Schol. _ad_ Pindar., _Nem._ 1., v. 1 ; Plutarch., _De solert. anim._, t. 10., p. 63, ed. Reiske ; Ælian., _Hist. anim._, 8., 4.
+
+Quant à la colombe, elle est bien connue comme l'animal sacré de l'Astarté de Paphos.* Les médailles de l'île de Cypre frappées sous les empereurs romains, en représentant le temple de la déesse, y montrent les colombes errant dans les cours et se posant sur le toit.* D'autres monnaies de la même île, de date plus ancienne, car elles ont été frappées sous les Achéménides, font voir au droit le buste d'Aphrodite, le front ceint d'un diadème, le cou orné d'un collier et les oreilles de pendeloques, et au revers la colombe.* D'autres encore, dont quelques-unes portent le nom de Paphos écrit en caractères cypriens* et quelques-unes le nom de Salamis,* présentent à la fois comme types la colombe et la vache ou le taureau, emblème également important et bien connu de la déesse. On trouve fréquemment en Chypre des statuettes en terre cuite, partie de l'époque phénicienne, partie de l'époque grecque, où l'Astarté ou Aphrodite de Paphos est figurée tenant à la main la colombe.* La plupart des antiquaires français rattachent à la même origine que ces terres cuites et considèrent comme une œuvre cypriote,* d'après une opinion due au regrettable duc de Luynes, qui se proposait de la développer dans une étude particulière, une statue fragmentée de marbre, fort inexactement publiée par Montfaucon* et par Grosson,* laquelle fait aujourd'hui partie du musée de Lyon. Mais nous ne saurions nous ranger à cette opinion. Après un examen très-attentif, et répété à plusieurs reprises, la statue du musée de Lyon, qui représente Vénus coiffée du _polos_ et tenant sur sa main la colombe, statue qui ne provient ni de Chypre ni de l'Asie, mais a été découverte à Marseille, est à nos yeux une œuvre grecque de l'époque archaïque, empreinte de tous les caractères du style des écoles ioniennes. Avec plus de perfection dans le travail et dans l'exécution, cette figure se rapproche beaucoup, comme style et comme école d'art, des ex-voto archaïques trouvés à Marseille il y a quelques années et datant des débuts mêmes de cette colonie grecque.* C'est un morceau de la même famille que les statues qui bordaient l'avenue du temple d'Apollon Branchidien près de Milet* et que les plus anciens fragments de sculptures athéniennes parvenus jusqu'à nous,* fragments dont les caractères d'art ont été analysés d'une manière particulièrement remarquable par M. Beulé.* En tant que spécimen des écoles ioniennes, cette figure est même assez frappante pour que nous ayons quelque peine à croire qu'elle ait été sculptée à Marseille ; nous serions plutôt tenté d'y voir un simulacre apporté d'Ionie même par les compagnons d'Euxène et de Protis, comme la statue d'Artémis Éphésienne qui devint le palladium de la nouvelle cité.* C'est aussi d'Ionie que doivent venir les monnaies d'argent appartenant à la même école d'art, avec un carré creux au revers, dont on a trouvé quelques-unes à Saint-Remy (_Glanum_) et à Marseille même (au port de la Joliette),* et dont un dépôt si important, qui n'a encore fait l'objet d'aucun travail approfondi,* a été exhumé il y a quelques années à Auriol (Bouches-du-Rhône).
+
+*) Athen., 14., p. 655 ; cf. Münter, _D. Tempel d. Himml. Gœttin zu Paphos_, p. 26 ; Engel, _Kypros_, t. 2., pp. 180 et suiv.
+
+*) Münter, _D. Tempel d. Himml. Gœttin zu Paphos_, pl. 4.
+
+*) Duc de Luynes, _Numismatique et inscriptions cypriotes_, pl. 5., n° 5.
+
+*) Ibid., pl. 3., n°s 1-6. --- Ces deux lectures sont aujourd'hui très-douteuses et devront sans doute être modifiées.
+
+*) Ibid., pl. 3., n°s 7-12.
+
+*) Voy. de Witte, _Élite des monuments céramographiques_, t. 4., p. 236, note 1.
+
+*) De Witte, au même endroit.
+
+*) _Antiquité expliquée_, t. 2., 2e part., pl. 139, n° 2.
+
+*) _Antiquités de Marseille_, pl. 25., n° 2.
+
+Le type de l'Astarté phénicienne tenant la colombe, admis, comme nous venons de le voir dans cet exemple, par les Grecs de l'Asie Mineure, a aussi été fréquemment reproduit par les Étrusques, dans des figures de bronze d'apparence tout asiatique.* Et il faut noter ici, avec M. de Longpérier,* le rapport que présente le nom donné par les Étrusques à Vénus, _Turan_, avec un des mots qui dans les langues sémitiques désignent la colombe, [HEBREW].
+
+L'attribution de la colombe à la déesse de la nature génératrice avait en effet passé de l'Asie dans les religions occidentales. Chacun sait que cet oiseau est l'emblème le plus constant d'Aphrodite. Des terres cuites grecques d'ancien style représentent la déesse tenant la colombe,* d'une manière exactement conforme au type que nous avons vu en Cypre et à celui de la statue du musée de Lyon. On élevait des colombes sacrées dans l'enceinte du temple de Vénus sur le mont Eryx en Sicile,* dont le culte offrait tant d'analogie avec celui des sanctuaires de l'Astarté phénicienne.*
+
+*) Conze, _Archæologische Zeitung, Archæologischer Anzeiger_, 1866, p. 303-306 ; pl. B.
+
+*) Newton, _Discoveries at Halicarnassus, Cnidus and Branchidæ_, pl. 74. et 75.
+
+*) Le Bas, _Voyage archéologique en Grèce et en Asie Mineure_, monuments figurés, pl. 2, 3, 4 et 5.
+
+*) _Gazette des Beaux-Arts_, t. 15., p. 489-513.
+
+*) Justin., 43., 3 et 4 ; Strab. 4., p. 179.
+
+*) La Saussaye, _Numismatique de la Gaule Narbonnaise_, pl. 1., n°s 1-5.
+
+*) Il n'a encore été parlé de la trouvaille d'Auriol et des pièces qui la composaient que dans un court article, publié par M. Chabouillet dans la _Revue des sociétés savantes_ en 1869, 4e série, t. 10., p. 117-127.
+
+*) Gerhard, _Über Venusidole_, pl. 1., n°s 1 et 2.
+
+*) _Bulletin archéologique de l'Athénæum français_, 1855, p. 24.
+
+Les Syriens, à cause du caractère sacré de cet oiseau, ne l'offraient jamais comme victime.* Mais dans l'île de Cypre, au contraire, on plaçait des colombes vivantes sur le bûcher où était brûlée l'image d'Adonis, dans la fête de deuil qui avait lieu tous les ans.* De même, chez les Grecs et chez les Romains, la colombe était considérée comme la victime la plus agréable à Vénus.* Une figurine de bronze de la galerie de Florence représente une jeune fille tenant d'une main une patère et de l'autre une colombe, évidemment pour la sacrifier à Vénus.* Un fragment de bas-relief grec votif, que j'ai découvert à Eleusis, offre aussi l'image du sacrifice de la colombe.* Un lécythus athénien, à figures peintes de diverses couleurs sur un fond blanc, montre un éphèbe debout auprès d'un tombeau et apportant, comme offrande funèbre, deux colombes.* C'est le sacrifice à la Vénus infernale, à l'Aphrodite Perséphoné, à laquelle la colombe était aussi bien consacrée qu'à la Vénus, céleste,* et qu'on nommait [GREEK] ou [GREEK], « celle qui porte la colombe. » De là vient que dans les tombeaux grecs on trouve souvent des vases en forme de colombe ou de simples colombes en terre cuite.* 
+
+*) Gerhard, _Über Venusidole_, pl. 3, n° 4.
+
+*) Athen., 9., p. 594 ; Ælian., _Hist. var._, 1., 15.
+
+*) Voy. Maury, _Histoire des religions de la Grèce antique_, t. 3., p. 226.
+
+*) Hygin., _Fab._, 197 ; Euseb., _Præpar. Evangel._, 1., 6 ; Sext. Empiric., _Hypoth._, 3., 24 ; Lucian., _Jupit. tragæd._, 42 ; voy. Chwolsohn, _Die Ssabier und der Ssabismus_, t. 2., pp. 8, 10 et 107.
+
+*) Diogenian., _Proverbe._, præfat., p. 5., ed. Gaisford ; Creuzer, _Symbolik_, 3e édit., t. 2., p. 479 ; Guigniaut, _Religions de l'antiquité_, t. 2., p. 936.
+
+*) Propert., 4., 5, v. 63 et suiv. ; Ovid., _Fast._, 1., v. 452.
+
+*) Gori, _Mur. etrusc._, pl. 93.
+
+*) Voy. de Witte, _Élite des monum. céramograph._, t. 4., p. 236 ; et mon _Catal. Raifé_, n° 603.
+
+*) Stackelberg, _Græber der Hellenen_, pl. 46., n° 2.
+
+*) Porphyr., _De abstin. carn._, 4., 16.
+
+*) De Witte, _Catalogue Durand_, n°s 1322-1325 et n° 1719.
+
+---
+
+# 4\.
+
+Dans la revue rapide que nous venons de faire à travers la symbolique des religions anciennes, nous avons constaté le rôle considérable que jouent les deux emblèmes du poisson et de la colombe ; mais presque toujours nous les avons trouvés séparés. Leur réunion et le concours de ces deux animaux symboliques dans une production commune est ce qui caractérise l'histoire de la naissance de Sémiramis et le mythe de l'œuf tombé dans l'Euphrate, auquel se rattache certainement la représentation d'un cylindre babylonien où l'on voit, au milieu d'autres symboles religieux, des colombes voltigeant au-dessus de flots.* Le poisson (_nunuv_) et l'oiseau (_iṣṣurru_) étaient également réunis parmi les figures (_pasilli_) mystérieuses que l'inscription du Baril de Phillips désigne comme conservées à l'étage supérieur de la cité royale de Babylone* et de la fameuse Tour de Borsippa.* Il n'y a point à se méprendre sur le sens de ces mythes, surtout avec le commentaire qu'en donne la tradition rabbinique relevée plus haut. Ils sont l'expression symbolique de l'idée de la génération universelle par le concours et la réaction réciproque des deux éléments humide et igné, qui tient une si grande place dans la philosophie religieuse de tous les peuples antiques, et particulièrement dans celle de l'Asie.* Aussi retrouvons-nous les deux mêmes symboles réunis encore dans un des plus antiques simulacres de la partie de la Grèce où la religion avait le mieux gardé sa physionomie primitive et l'empreinte de son origine orientale, dans la Déméter Melæna de Phigalie en Arcadie, qui était représentée avec une tête de cheval, portant un dauphin sur une main et une colombe sur l'autre.*
+
+*) Lajard, _Culte de Mithra_, pl. 62., n° 5.
+
+*) Col. 1, l. 18-22 : _Cuneif. inscr. of West. As._, t. 1., pl. 65.
+
+*) Col. 2, l. 26-35 : Ibid.
+
+*) Voy. notre _Monographie de la Voie Sacrée Éleusinienne_, t. 1., pp. 264 et suiv. ; Vogüé, _Mélanges d'archéologie orientale_, pp. 57 et suiv.
+
+*) Pausan., 8., 42, 3.
+
+Le poisson est un des symboles les plus clairs et les mieux appropriés du principe humide. La colombe, au contraire, appartient à l'élément igné. C'est à cause de son tempérament amoureux et brûlant, nous dit-on, qu'elle fut de toute antiquité consacrée à Aphrodite.* Elle représente donc la génération par la chaleur animale et l'élément du feu.* Et c'est bien le rôle qu'elle remplit quand elle couve l'œuf que les poissons ont sorti des eaux.
+
+Mais dans ce concours de deux principes opposés, symbolisés par ces deux animaux, à l'œuvre de la génération universelle, il en est nécessairement un qui est actif et l'autre passif, un qui lient le rôle de mâle et l'autre le rôle de femelle. Ici nous devons remarquer que la colombe est toujours exclusivement en rapport avec des divinités féminines, tandis que le symbole du poisson et la figure ichthyomorphe appartiennent beaucoup plus souvent à des dieux mâles.
+
+Rappelons, dans la religion chaldéo-assyrienne, les deux personnages d'_Anu_ et de _Bel-Dagan_, dont nous avons eu déjà l'occasion de traiter ailleurs.* _Anu_, l'un des plus grands dieux du panthéon des bords de l'Euphrate et du Tigre, est l'[GREEK] des fragments de Bérose,* l'_Euahanes_ d'Hygin* et l'[GREEK] d'Helladius.* Bérose décrit très-exactement le type de ses représentations : « Ce monstre avait tout le corps d'un poisson, mais au-dessous de sa tête de poisson une seconde tête, qui était celle d'un homme, des pieds d'homme sortant de sa queue et une parole humaine ; son image se conserve jusqu'à ce jour. » Nous la voyons en effet parfaitement conforme aux dires de l'historien de la Chaldée, dans les sculptures des palais assyriens,* sur les cylindres babyloniens* et dans certaines figurines de terre cuite qui proviennent de la même contrée.* Quant à _Bel-Dagan_, dont le nom est si caractéristique de sa qualité de dieu-poisson, nous l'avons reconnu dans un personnage ichthyomorphe d'un aspect tout différent d'_Anu_, avec un corps de poisson que surmonte un buste humain coiffé de la tiare, personnage figuré quelquefois dans les bas-reliefs* et aussi sur les cylindres.
+
+*) Apollodor., _ap._ Schol. _ad_ Apollon. Rhod., _Argonaut._, 33, v. 593.
+
+*) Voy. Creuzer, t. 2., p. 37 de la traduction Guigniaut.
+
+*) _Essai de commentaire de fragments cosmogoniques de Bérose_, pp. 59 et 66-68.
+
+*) Fragm. 1 des éditions de Richter, de C. Müller et de la nôtre.
+
+*) _Fab._, 264.
+
+*) _Ap._ Phot., _Biblioth._, 279, p. 1593.
+
+*) Layard, _Monuments of Nineveh_, new ser., pl. 6.
+
+*) Lajard, _Culte de Mithra_, pl. 16., n° 7 ; pl. 17., n°s 1, 3, 5 et 8.
+
+*) G. Rawlinson, _The five great monarchies of ancient eastern world_, 1re édit., t. 1., p. 426.
+
+La même religion nous présente encore un troisième dieu auquel l'attribut symbolique du poisson appartient très-fréquemment. C'est _Nisruk_,* « le maître des eaux, le seigneur des rivières, le souverain de la mer, le roi, le chef, le seigneur, le gouverneur de l'abîme. » Nous le reconnaissons sous une forme purement humaine dans le dieu que plusieurs cylindres nous montrent, avec l'attitude agenouillée, [GREEK] qui a été transmise de l'Asie au langage symbolique de l'art grec comme s'appliquant toujours aux divinités de la génération,* entouré des flots des eaux primordiales.* Il rappelle alors d'une manière frappante « l'esprit de Dieu porté à la surface des eaux » de la Genèse* et « le souffle de vent ténébreux, [GREEK], que la cosmogonie de Sanchoniathon* développe dans le chaos, à l'origine des choses ; et c'est bien là en effet le rôle de ce dieu dans la plus haute triade de la Chaldée et de l'Assyrie. Dans les monuments de l'art, _Nisruk_, porté sur les eaux primordiales, est quelquefois ichthyomorphe, comme _Dagan_.* Et en effet, dans le long catalogue de ses titres que fournit une des tablettes mythologiques du Musée Britannique,* nous lisons ceux de _nun apsu_ (l. 26), « le poisson de l'abîme, » _nun ṭab_ (l. 42), « le bon poisson ; » dans le même document (l. 53) la déesse _Davkina_, sa compagne, est appelée _as's'at rabit nunna_, « la grande épouse du poisson. » Aussi dans les tablettes astrologiques publiées par sir Henry Rawlinson et M. Smith au tome 3 des _Caneiform inscriptions of Western Asia_, est-il fait à plusieurs reprises mention d'un catastérisme appelé « le poisson de _Nisruk_. » Il n'y a pas à douter que ce ne soit le signe entier des poissons ou du moins celui des deux poissons qui est situé le plus au sud, le plus exactement dans la bande zodiacale ; car dans la curieuse tablette* qui enregistre les douze noms divers donnés à la planète Mercure pendant chacun des mois de l'année,* nous voyons cet astre prendre celui de « poisson de _Nisruk_ » au mois de _addaru_, le dernier de l'année, c'est-à-dire précisément à l'époque où Mercure, accompagnant toujours de très-près le Soleil, se trouve avec lui dans le signe des poissons, autrement dit, pour les astronomes babyloniens, dans le catastérisme du « poisson de _Nisruk_. » C'est pour cela que lorsque certains cylindres réunissent côté à côte deux dieux-poissons, exactement semblables,* nous y reconnaissons _Bel-Dagan_ et _Nisruk_. Quelquefois la représentation de la première triade divine est complétée par la figure d'_Anu_, dans ce cas complètement homme, entre les deux personnages ichthyomorphes.*
+
+*) Botta, _Monument de Ninive_, t. 1., pl. 32 et 34.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 68 et suiv.
+
+*) Ch. Lenormant, _Ann. de l'Inst. arch._, t. 4., pp. 64 et suiv.
+
+*) Lajard, _Culte de Mithra_, pl. 31., n°s 4 et 7.
+
+*) 1., 2.
+
+*) P. 8, ed. Orelli.
+
+*) Lajard, _Culte de Mithra_, pl. 31., n° 5.
+
+*) _Cuneif. inscr. of West. As._, t. 2., pl. 55, col. 2.
+
+Si nous nous transportons maintenant dans d'autres contrées de l'Asie, où la religion était de la même famille que celle des bords de l'Euphrate et du Tigre, nous rencontrons chez les Philistins _Dagon_, le dieu ichthyomorphe par excellence,* identique au _Bel-Dagan_ chaldéo-assyrien, dont le nom, [HEBREW], dérive de [HEBREW], « poisson, » et qui, sur certaines médailles du temps des Achéménides, est représenté avec une queue de poisson.* La même figure est donnée au _Bel-Itan_ phénicien, adoré comme un dieu-poisson à Itanus de Crète et dont l'image sert de type aux monnaies de cette ville.*
+
+La notion des dieux-poissons passa d'Asie en Grèce et constitue un des côtés de la religion hellénique où l'on peut le moins contester l'influence orientale.* Les vases peints grecs d'ancienne date, dits de _style asiatique_, nous offrent souvent la représentation de personnages divins ichthyomorphes, auxquels il est assez difficile de donner des noms précis.* Ces figures sont certainement imitées de monuments des arts de l'Asie, et l'on en remarque même une qui reproduit trait pour trait le Dagon des médailles frappées sous les Achéménides que nous citions tout à l'heure.* On ne peut douter que, par un des côtés les plus importants de sa conception première, Posidon ne fût originairement un dieu-poisson. Mais à la belle époque, chez les Grecs, la pureté du goût a porté les artistes à déguiser ce caractère monstrueux, pour ne pas nuire à la majesté dans la représentation de Neptune. Les divinités d'un ordre inférieur sont les seules dont le corps, sur les monuments purement helléniques, se termine en queue de poisson. Quant au roi des mers, les artistes ont imaginé un certain nombre de procédés pour exprimer sa nature ichthyomorphe, sans y ajouter l'appendice caractéristique qui répugnait au sentiment du beau. C'est ainsi qu'ils le font monter sur un hippocampe ou sur quelque autre monstre marin, ou qu'ils lui mettent à la main un poisson dont il serre fortement la queue.* Mais, en revanche, Nérée, qui n'est qu'une forme inférieure de Posidon,* est figuré sur plusieurs vases peints avec la queue de poisson.* Et il n'est pas sans intérêt d'observer en passant que Pindare* le montre donnant aux hommes des enseignements de morale, d'une manière qui rappelle tout à fait l'_Anu_ législateur des mythes de Babylone.
+
+*) _Cuneif. inscr. of West As._, t. 3., pl. 53, n° 2, recto.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 372.
+
+*) Lajard, _Culte de Mithra_, pl. 62., n°s 1 et 2.
+
+*) Lajard, _Culte de Mithra_, pl. 51., n° 4.
+
+*) Voy. Selden, _De diis Syris_, Syntagm., 2., p. 188.
+
+*) Mionnet, _Description de médailles antiques, Supplément_, t. 8., p. 428, n° 40.
+
+*) Steph. Byz., v° [GREEK] ; Eekhel, _Doctr. num. vet._, t. 1., p. 314 ; Mionnet, _Supplément_, t. 4., p. 324, n° 188 ; Ch. Lenormant, _Nouvelle galerie mythologique_, pl. 17., 15, et pp. 63 et 100 ; Movers, _Die Phœnizier_, t. 1., pp. 278 et 523.
+
+*) Lenormant et de Witte, _Élite des monuments céramographiques_, t. 3., p. 77.
+
+Le thon et le poisson pompile étaient spécialement consacrés à Posidon, et les pêcheurs offraient à ce dieu le premier thon qu'ils prenaient dans leurs filets.* Dans la ville d'Ægiæ, en Laconie, se trouvait un étang nommé l'étang de Posidon, avec des poissons sacrés, et personne ne se serait avisé de prendre ces poissons : le coupable aurait à l'instant ressenti les effets de la colère du dieu.* Le poisson [GREEK] était consacré à Dionysus.* Le poisson [GREEK] appartenait au même dieu.* A Pharæ, en Achaïe, il y avait une fontaine qui avait nom Hama et dont les poissons étaient dédiés à Hermès.* On signale, du reste, une espèce de poisson nommé [GREEK] comme appartenant à ce dieu.* Quant au poisson [GREEK], il était consacré à Apollon.* Dans la Lycie, il y avait des poissons sacrés que l'on consultait pour connaître l'avenir et que l'on faisait venir à la surface de l'eau au son de la flûte.* Varron raconte une anecdote à peu prés semblable au sujet de certains poissons de la Lydie qui étaient sensibles aux accords de la musique ; il ajoute que les Lydiens offraient des poissons en sacrifice aux dieux.* Les Béotiens des bords du lac Copaïs faisaient de même avec leurs anguilles.*
+
+*) Ch. Lenormant et de Witte, _Élite des monuments céramographiques_, t. 3., pl. 31., 32. et 32. A.
+
+*) _El. des mon. céramogr._, t. 3., pl. 35.
+
+*) Voy. Ch. Lenormant et de Witte, _El. des mon. céramogr._, t. 3., p. 76.
+
+*) Voy. Panofka, _Musée Blacas_, pp. 60 et suiv.
+
+*) Panofka, _Musée Blacas_, pl. 20. ; Ch. Lenormant et de Witte, _El. des mon. céramogr._, t. 3., pl. 33. et 34.
+
+*) _Pyth_., 9., v. 169 et suiv.
+
+*) Athen., 7., p. 297.
+
+Ces rapprochements, que nous n'avons pu faire que très-sommairement, car il eût été bon d'y joindre les mythes des dieux _pêchés_ et des dieux _pêcheurs_,* suffisent pour montrer que l'attribut du poisson et le caractère ichthyomorphe appartiennent plus souvent à des divinités masculines que féminines, et pour achever de prouver que dans le couple du poisson et de la colombe, concourant à la génération de l'univers, le rôle de mâle appartient au poisson et celui de femelle à la colombe. Ainsi dans le groupe de mythes auquel se rattache celui de la naissance de Sémiramis, le principe humide est le principe mâle et le principe igné le principe femelle. Cependant c'est l'inverse qui se présente habituellement dans les conceptions religieuses de l'antique Asie,* et nous-mêmes, nous avons eu l'occasion de faire voir ailleurs* que dans la cosmogonie babylonienne, telle qu'elle était exposée par Bérose, c'était l'élément humide qui tenait la place du principe femelle ou de génération passive.
+
+*) Pausan., 3., 21, 5.
+
+*) Hesych., v° [GREEK].
+
+*) Athen., 7., p. 325.
+
+*) Pausan., 7., 22, 2.
+
+*) Athen., 7., p. 325 ; Eustath. _ad_ Homer., _Iliad._, A, p. 87.
+
+*) _Ibid._
+
+*) Plin., _Hist. nat._, 32., 2, 8 ; Polycharm. _ap._ Athen., 8., p. 333.
+
+*) Varr., _De re mistic._, 3., 17, 4.
+
+*) Athen., 7., p. 297.
+
+*) Voy. Ch. Lenormant et de Witte, _El. des mon. céramogr._, t. 3., pp. 44 et suiv.
+
+*) Voy. De Vogüé, _Mélanges d'archéologie asiatique_, pp. 57 et suiv.
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 69 et suiv., 87 et suiv.
+
+Mais, ainsi que nous l'avons fait remarquer il y a un certain temps déjà,* « partout où l'on voit surgir un système religieux en apparence exclusif, qui attribue le caractère mâle au feu ou à l'eau, il n'est pas difficile de reconnaître la trace évidente du système opposé. » En effet, dans ces applications religieuses des idées de la physique primitive, la constitution de chaque contrée a dû déterminer la préférence pour faire attribuer le rôle actif ou passif, mâle ou femelle, à l'un ou à l'autre élément. En Chaldée comme en Égypte, où le rôle du feu intérieur est nul, l'expression naturelle du travail du principe actif sur la nature passive était le soleil dardant ses rayons sur le limon qu'abandonne le fleuve en se retirant après l'inondation ; en Attique, où la terre aride et brûlée ne retrouve un peu de force végétative qu'à l'époque des grandes pluies, c'était le mythe de Gæa implorant la rosée de Zeus Ombrios.* Mais changez la saison de l'année babylonienne, faites qu'au lieu du moment où l'inondation finit, l'observation se rapporte au mois où elle commence, et alors l'eau mâle qui abreuve la terre desséchée ne différera pas du Zeus Ombrios des Athéniens. C'est pour cela que si la divinité féminine, dans les religions de l'Asie, et avant tout d'une nature humide et lunaire, nous la voyons par contre y revêtir quelquefois un caractère igné. Elle est alors appelé ou [HEBREW] ou [HEBREW], « la noire, la brûlante.* » Un tel nom rappelle aussitôt à l'esprit l'Aphrodite Melænis de Corinthe, qui paraît être d'origine orientale, comme presque toutés les divinités de cette ville.* Mais où la divinité féminine se montre principalement comme ignée, c'est quand elle préside à l'une des plus brillantes planètes, à la planète Vénus, objet de l'adoration de presque toutes les populations sémitiques.* Chez les Babyloniens et les Assyriens, c'était _Is'tar_ qui était la déesse de la planète Vénus.* Chez les Phéniciens, c'était Astarté.* Aussi cette planète s'est-elle appelée jusque très-tard [HEBREW].* Les Syriens la nommaient [HEBREW].*
+
+*) _Monographie de la Voie Sacrée Éleusinienne_, t. 1., p. 265.
+
+*) Pausan., 1., 24, 3 ; cf. Ch. Lenormant, _Ann. de l'Inst. arch._, t. 4., pp. 63 et suiv.
+
+*) Chwolsohn, _Die Ssabier und der Ssabismus_, t. 2., pp. 33, 337 et 338.
+
+*) Pausan., 2., 2, 4 ; cf. Maury, _Histoire des religions de la Grèce_, t. 3., p. 209.
+
+*) Evagr., _Hist. eccles._, 6., 22 ; Cedren., _Hist. comp._, t. 1., p. 744, ed. Bekker, _Origen. Adv. Cels._, 5., 34 ; Procop., _De bell. pers._, 2., 28 ; Johan. Damascen., _De haeres._, 101 ; Coteler, _Eccles. graec. monum._, t. 1., p. 326 ; Assemani, _Dissert. de Syris Nestorianis_, dans sa _Bibloth. orient._, t. 3., 2e part.
+
+Il faut aussi se souvenir ici des ingénieuses remarques de M. le comte de Vogüé* sur l'échange de symboles entre les deux personnages du couple divin, qui est caractéristique des religions de l'Asie, « échange de symboles, dit-il, qui indique leur association mystique et le lien qui les unit. » Les attributs, les animaux sacrés, l'être réel ou fantastique qui sert de monture, sont souvent ceux qui appartiennent au principe opposé à celui que personnifie la divinité. Ainsi le dieu igné et solaire sera placé sur le taureau du principe humide et lunaire, tandis que la déesse de l'élément humide et de la lune se tient debout sur le lion, emblème du feu et du soleil. C'est une manière de rétablir l'unité panthéistique fondamentale, décomposée dans la dualité d'un dieu mâle et d'une déesse féminine.
+
+Le couple divin du poisson mâle et de la colombe ne se présente pas seulement à nous dans le récit de la naissance de Sémiramis ; c'est la donnée fondamentale de toute son histoire mythologique. La colombe est l'attribut essentiel de Sémiramis, elle est elle-même la déesse qui se manifeste sous la figure d'une colombe. Diodore le dit formellement, et sa métamorphose finale le prouve d'une façon assez claire. Lucien nous apprend d'ailleurs que la colombe placée sur la tête de la statue mystérieuse du temple de Bambyce suffisait beaucoup pour le faire nommer Sémiramis.* Aussi, quand nous voyons sur un cylindre provenant de l'Assyrie* une déesse nue, debout, représentée comme l'est ordinairement _Zir-banit_ ou _Zarpanit_,* mais avec un voile étendu derrière elle à la façon de celui de l'Astarté tauropole des médailles grecques de la Phénicie, et environné de colombes, nous n'hésitons pas à la qualifier d'_Is'tar_-Sémiramis, association de noms qui sera justifiée tout à l'heure.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 104 et 116-121.  
+Une curieuse tablette astrologique du Musée Britannique (_Cuneiform inscriptions of Western Asia_, t. 3., pl. 53. n° 2, verso) dit que « la planète Vénus est à son lever la Dame d'_Aganē_ (_Anunit_) ; à son coucher la Dame d'_Uruk_ (_Belit Um-Uruk_, l'Omoroea de Bérose) ; à son lever _Is'tar_ des étoiles ; à son coucher _Belit_, dame des dieux. »
+
+*) Plin., _Hist. nat._, 2., 6, 8 ; voy. Movers, _Die Phœnizier_, t. 1., p. 636.
+
+*) Chwolsohn, _Die Ssabier und der Ssabismus_, t. 2., pp. 30 et 226 ; cf. Reinaud, _Description des monuments arabes du cabinet Blacas_, t. 2., p. 371.
+
+*) Chwolsohn, _Die Ssabier und der Ssabismus_, t. 2., p. 23.
+
+*) _Mélanges d'archéologie orientale_, pp. 64-68.
+
+*) Lucian., _De dea Syr._, 33.
+
+Quant au symbole du poisson, il n'appartient à Sémiramis dans aucune des circonstances du mythe, mais il est facile de le retrouver dans la conception du dieu son époux, dont les différents aspects ont été décomposés par la légende en plusieurs personnages successifs.
+
+On ne peut manquer, en effet, d'être tout d'abord frappé du nom donné par le récit légendaire au premier époux de Sémiramis, Onnés ou Oannès, car c'est précisément --- nous l'avons vu il n'y a que peu d'instants --- la forme que les Grecs ont donnée au nom du dieu-poisson par excellence dans la religion babylonienne au nom d'_Anu_.
+
+Nous trouvons un second indice du caractère de personnification du principe humide, et par suite d'être ichthyomorphe, appartenant au dieu mâle associé à Sémiramis dans l'étrange histoire qui lui donne un cheval pour amant. En effet le cheval, dans la symbolique des anciens, est un attribut qui appartient essentiellement aux divinités de l'élément humide.* Posidon était appelé [GREEK] à Colone,* à Némée,* à Mantinée,* et à Tilphusa en Arcadie,* et ce nom se rattachait à plusieurs récits mythologiques. Dans son sommeil, le dieu féconde un rocher duquel nait le cheval Scyphius.* Selon d'autres récits, ce cheval est produit par Neptune quand Minerve fait naitre l'olivier.* C'est en se mêlant aux cavales oncéennes que Posidon rend Déméter mère du cheval Arion.* Le même dieu produit en Thessalie, d'après un autre mythe, deux chevaux, Arion et Scyphius,* qui rappellent les deux chevaux dont est accompagnée la figure du Zeus-Posidon de Gabala.*
+
+*) Lajard, _Culte de Mithra_, pl. 32., n° 9.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 119.
+
+*) Voy. sur ce sujet Ch. Lenormant et de Witte, _Élite des monuments céramographiques_, t. 1., p. 11, et t. 3., p. 5 ; et notre _Monogr. de la Voie Sacrée Éleusinienne_, t. 1., pp. 295 et suiv.
+
+*) Pausan., 1., 30, 4.
+
+*) _Ibid._, 6, 20, 8.
+
+*) _Ibid._, 8., 10, 3.
+
+*) _Ibid._, 25, 7.
+
+*) Schol. _ad_ Pindar., _Pyth._, 4., v. 246.
+
+*) Serv. _ad_ Virgil., _Georg._, 1., v. 12.
 
 ...
