@@ -34,6 +34,8 @@ C'est là un des résultats les plus considérables et les plus positifs qui soi
 
 Dégager ce mythe des additions et des ornements dont il a été revêtu en pénétrant dans l'histoire, essayer de l'expliquer à la fois par les renseignements que l'on peut dès à présent tirer des textes cunéiformes et par la comparaison des autres religions antiques, tel est l'objet que nous nous sommes proposé dans le présent mémoire, il sera le premier d'une série de dissertations de mythologie comparative dans lesquelles nous étudierons successivement tous les récits assyriens de Ctésias, c'est-à-dire le mythe de Sardanapale et celui de Nannarus et de Parsondas après le mythe de Ninus et de Sémiramis. Nous croyons qu'il nous sera possible de montrer dans ces récits une légende épique d'une nature tout à fait analogue à ce qu'est pour la Perse la légende épique mise en vers et acceptée comme de l'histoire par le poëte Firdoùsi. C'est un enchaînement de récits, à l'origine distincts et purement mythologiques, qui, sous cette forme première, avaient dû prendre naissance en Assyrie même, que la tradition orale du peuple, après la destruction de la monarchie assyrienne et l'oubli des monuments écrits destinés à perpétuer le souvenir de ses annales, avait rassemblés en un seul récit en les transformant en souvenirs nationaux, qu'on regardait comme historiques à la cour de Perse, et cela d'autant plus volontiers que la politique des Achéménides y puisait des arguments en faveur de ses prétentions et de son système. Aussi cette légende épique était-elle devenue pour la chancellerie de Suse l'histoire officielle de la première époque du grand empire asiatique. C'est là que le médecin d'Artaxerxe Mnémon l'avait entendu raconter, et quand même il eût été parfaitement de bonne foi, ce dont il est permis de douter un peu, il était tout naturel qu'il rapportât ces récits à ses compatriotes en croyant leur révéler la vérité sur cette puissante monarchie assyrienne dont le renom était si grand dans tout l'Orient, mais dont les Grecs n'avaient jamais entendu parler que d'une manière très-vague.
 
+---
+
 # 1\.
 
 Nous devons avant tout exposer la légende de Ninus et de Sémiramis afin d'en remettre tous les détails et toutes les circonstances sous les yeux du lecteur. Le récit du mythe, tel qu'il est parvenu jusqu'à nous, doit nécessairement précéder toute tentative d'interprétation. Nous prendrons ici pour guide principal la narration que Diodore de Sicile a extraite de Ctésias, car c'est la plus complète, et d'ailleurs le livre du médecin d'Artaxerxe a été le point de départ de tous les récits analogues qui ont circulé chez les Grecs. Mais nous y ajouterons les circonstances nouvelles qu'y joignent d'autres écrivains, en ayant soin d'en indiquer les sources.
@@ -216,6 +218,8 @@ De là ce que le même système d'histoire légendaire ajoutait pour continuer l
 Nous avons déjà remarqué tout à l'heure que cette durée de treize cents ans est entièrement fabuleuse et nous fait remonter à plusieurs siècles avant qu'il fût question des rois d'Assyrie. Mais autant qu'on peut, dans l'état actuel de la science, discerner les faits principaux au milieu du crépuscule historique qui enveloppe encore les premiers temps des annales de l'Assyrie, ce chiffre de treize siècles coïncide approximativement avec le résultat total de l'addition que l'on ferait en ajoutant à la durée des rois assyriens proprement dits l'étendue probable de la période antérieure, où les pontifes de la ville d'_Al-As's'ur_ constituaient le seul lien national entre les cités assyriennes, régies par des chefs différents. Ainsi toute l'histoire de l'Assyrie semble avoir été présentée par les rois de Perse pour l'instruction de leurs sujets, comme celle d'un seul et même empire, gouverné pendant treize cents ans par une même dynastie, empire dont l'unité et l'autorité n'auraient jamais été contestées, et dont ils auraient eux-mêmes été les héritiers et les successeurs. C'est de cette manière que chez tous les peuples, et particulièrement chez ceux qui ont le malheur d'être courbés sous le joug du pouvoir absolu, l'intérêt politique a bien souvent fait écrire l'histoire officielle.
 
 *) Diod. Sic., 2. 21.
+
+---
 
 # 3\.
 
@@ -750,5 +754,143 @@ Tout montre ainsi que le cône, une des trois formes divines par excellence (les
 *) _Adv. gent._, 5., 19.
 
 *) Sur l'usage de porter ces cônes au col comme des amulettes et les monuments asiatiques qui l'établissent, voy. De Longpérier, _Notice des antiquités assyriennes du Musée du Louvre_, 3e édit., pp. 73 et 103.
+
+Voici donc l'organe de la virilité employé comme le symbole et la figure d'une divinité féminine, telle qu'Astarté ou Vénus. La même idée est impliquée par le nom de _Ken_ donné sur les stèles égyptiennes de la dix-huitième et de la dix-neuvième dynastie à la déesse asiatique représentée nue sur un lion, en pendant avec la déesse guerrière _Anata_* ; en effet, si nous consultons le lexique copte, nous y voyons que le mot [GREEK] signifie _pudendum virile_.* Chez les Grecs nous avons l'Aphrodite Colias, dont le nom n'est pas moins significatif : [GREEK]. C'est caractériser suffisamment la déesse comme androgyne dans son essence. L'expression plus formelle encore de cette idée va nous être fournie par les nombreuses images d'Astarté en pierre calcaire, de style asiatique, que les dernières explorations ont fait rapporter de l'île de Chypre. Plusieurs de ces statuettes représentent la déesse coiffée d'un bonnet de forme conique, reproduisant le galbe de la pierre adorée à Paphos ; en même temps sur le devant du cône est figurée l'image obscène que les Indiens de Bénarès tracent sur leurs fronts en l'honneur de la déesse Bhavâni.* Nous avons ici l'analogue exacte du Yoni-Lingam de l'Inde, la réunion des organes des deux sexes, exprimant la nature et la puissance complète de l'être divin du panthéisme payen, le grand Tout, qui se féconde lui-même et produit dans son propre sein la génération universelle. Le [GREEK] est également figuré de la manière la plus précise à la base de la pierre conique du dieu Elagabale sur un célèbre _aureus_ de l'empereur Uranius Antoninus,* et ceci nous explique ce qu'a voulu dire Hérodien* lorsqu'il parle de certaines _saillies_ ou _empreintes_ qui existaient à la surface de la pierre adorée à Émèse, [GREEK].* Ainsi se justifie l'opinion émise au siècle dernier par Falconnet* sur la signification du passage où Plutarque* parle de la pierre sacrée trouvée dans le fleuve Sagaris, pierre sur laquelle on voyait l'_empreinte de la Mère des dieux_, [GREEK].
+
+*) Athen., 15., p. 676.  
+Voy. sur les figurines primitives de Vénus en terre cuite, en forme de cône muni de bras et fréquemment d'une tête humaine, figurines encore tout à fait conformes au type phénicien, qui se rencontrent dans plusieurs parties de la Grèce, principalement à Mégare et à Thèbes, ce que nous avons dit dans notre dissertation sur _La légende de Cadmus et les établissements phéniciens en Grèce_, pp. 48-52.
+
+*) _De dea Syr._, 16.
+
+*) Gerhard, _Über die Kunst der Phœnicier_, pl. 1., n°s 7-9 ; Renan, _Mission de Phénicie_, pl. 11-13.
+
+*) Prisse, _Choix de monuments égyptiens_, pl. 37. ; voy. De Vogüé, _Mélanges d'archéologie orientale_, pp. 43 et suiv. ; et notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 151.
+
+*) Nous devons cependant reconnaître que cette lecture _Ken_ est douteuse. Au lieu de [HIERO], _Ken_, il faut peut-être lire [HIERO], « la Kouschite, l'Éthiopienne. » La forme donnée au second caractère prête en effet au doute. Sur le même monument nous la voyons donnée au _s'_ dans le nom du dieu _Res'pu_ (voy. De Vogüé, _Mélanges d'archéologie orientale_, p. 78) et au _n_ dans le mot _sen-t_, « sœur. »
+
+Souvenons-nous maintenant que, chez les Indiens, la figure du Lingam, même tracée seule, suppose toujours celle du Yoni et l'union des deux sexes. N'en est-il pas de même dans le culte de l'Astarté Paphienne ? Et n'est-ce pas cette raison qui, au lieu du phallus pur et simple, y a fait adopter le symbole du cône, rappelant à la fois par sa projection la puissance mâle et par la section de sa base l'organe de la génération féminine ? Comme nous, M. Guigniaut* et M. Lajard* ne sont pas éloignés de le croire.
+
+Tous ces faits appartiennent à la donnée de l'hermaphrodite _complet_. La donnée de l'hermaphrodite _passif_ en est l'équivalent euphémique et adouci dans la forme extérieure, car elle déguise le personnage androgyne sous les traits d'une jeune femme guerrière et virile ou d'un jeune homme efféminé. Nous l'avons suivie tout à l'heure dans les religions de l'Asie, en y montrant le côté belliqueux et presque masculin qui, chez toutes les déesses féminines, s'y joint au côté voluptueux et lascif. Il nous serait facile de continuer l'histoire de la propagation de cette donnée après son passage dans la Grèce, où le même caractère fondamental d'androgynisme appartient à toutes les déesses viriles et farouches, armées et guerrières, comme Athéné, que les hymnes orphiques qualifient positivement d'androgyne,* ou chasseresses, comme Artémis, adorée dans le Pont sous le nom de [GREEK]* et représentée à ce titre sur un tétradrachme d'argent de Démétrius 2, roi de Syrie, barbue et environnée de phallus.* Les Lacédémoniens adoraient Artémis _Orthia_,* et ce nom implique l'emploi du même symbole.* Enfin en Lydie on rencontre Artémis [GREEK]* et en Attique Artémis [GREEK],* dont l'appellation doit se rattacher à la même origine et avoir la même signification que celle de l'Aphrodite Colias. Si des mythes purement divins nous descendions au cycle des légendes héroïques, nous y reconnaîtrions bien vite la même idée dans les histoires de jeunes filles qui prennent des vêtements d'éphèbes, Leucippé,* Procris la chasseresse, épouse de Céphale,* la sœur de Narcisse, qui, suivant une tradition béotienne, s'habillait comme son frère et l'accompagnait à la chasse.* Ce sont autant de traditions grecques, et par suite gracieuses et poétiques, de la divinité féminine des religions de l'Asie occidentale, avec son double aspect, qui décèle une confusion des deux sexes.
+
+*) Voy. un bel exemple de ces figurines dans Lajard, _Culte de Vénus_, pl. 20., n° 1.
+
+*) _Revue numismatique_, 1843, pl. 11., n° 1.
+
+*) 5., 3.
+
+*) Voy. Ch. Lenormant, _Rev. numism._, 1843, pp. 273 et suiv.
+
+*) _Mém. de l'Acad. des inscr._, t. 23., pp. 213 et suiv.
+
+*) _De flumin._, p. 756, ed. Reiske.
+
+*) _La Vénus de Paphos et son temple_, pp. 429 et suiv.
+
+*) _Recherches sur le culte de Vénus_, pp. 68 et suiv.
+
+*) Orph., _Hymn._, 32., v. 10 ; cf. Ch. Lenormant et de Witte, _Él. des mon. céramogr._, t. 1., p. 180.
+
+*) Plutarch., _Lucull._, 13 ; cf. de Witte, _Rev. numism._, nouv. sér., 1864, p. 30.
+
+*) Frœlich, _Ann. reg. Syr._, pl. 10., n° 25 ; Duane, _Coins of the Seleucidæ_, pl. 14., n° 1 ; Mionnet, _Descr. de méd. ant._, t. 5., p. 58, n° 500 ; _Suppl._, t. 8., p. 44, n° 232 ; Richter, _Über die Attrib. des Venus_, p. 15 ; _Nouv. ann. de l'Inst. arch._, t. 1., pl. D.
+
+*) Pausan., 3., 16, 5 et 6 ; Clem. Alex., _Protrept._, 3., p. 35, ed. Potter.
+
+*) Il faut consulter sur le sens du mot [GREEK] ce qu'a dit Bœckh, _Expl. ad Pindar._, p. 335.
+
+*) Strab., 13., p. 626.
+
+*) Pausan., 1., 31, 3.
+
+*) Hygin., _Fab._, 190.
+
+*) Hygin., _Fab._, 189.
+
+*) Pausan., 9., 31, 5.
+
+Le caractère ambigu de cette divinité et ses deux faces contrastantes sont indubitablement en rapport avec sa nature lunaire, car la lune était considérée par les anciens comme essentiellement douée des attributs des deux sexes.* Dans la religion chaldéo-assyrienne cet astre, suivant le point de vue auquel on le considère, est en même temps un dieu mâle, _S'in_,* et une déesse féminine triforme, _Gula_.* Et _S'in_, adoré encore par les habitants de l'Assyrie pendant toute la période romaine,* était aux yeux des païens de Harrân, où son culte se maintint postérieurement à la naissance de l'islamisme, tenu pour un être hermaphrodite.* Dans le troisième mémoire de la série de recherches de mythologie comparative que nous inaugurons aujourd'hui, nous étudierons un curieux récit, provenant de Ctésias,* mais que Nicolas de Damas nous a seul conservé dans son intégrité* ; on y voit dépeindre comme tout à fait hermaphrodite un personnage héroïque qui fait sa résidence à Babylone et est appelé [GREEK]. Or, comme nous avons eu déjà l'occasion de le dire ailleurs,* il n'y a pas moyen d'y méconnaître le dieu _S'in_, sous le nom de _Nannaru_, « le lumineux » (de la racine [HEBREW]), qui lui est donné par plusieurs monuments d'origine babylonienne.* Dans les religions indigènes de l'Asie Mineure, le dieu-lune était un personnage masculin, mais d'un aspect efféminé et presque androgyne, Mên.* En Grèce, au contraire, le même astre était personnifié dans une divinité féminine, Séléné ; seulement les œuvres de l'art donnaient pour monture à cette déesse le mulet,* animal essentiellement priapique,* qui la caractérise comme une véritable Artémis _Orthia_.*
+
+*) Plat., _Conviv._, p. 190 ; Orph., _Hymn._, 9., v. 4 ; cf. Macrob., _Saturn._, 3., 8.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 95 et suiv.
+
+*) Même ouvrage, p. 103.
+
+*) Herodian., 4., 13 ; Spartian., _Caracall._, 6 ; Ammian. Marcell., 23., 3, 1.
+
+*) Chwolsohn, _Die Ssabier und der Saabismus_, t. 2., p. 183 ; Maury, _Histoire des religions de la Grèce_, t. 3., p. 127.
+
+*) Athen., 12., p. 530, B.
+
+*) Nicol. Damasc., fragm. 10, ed. C. Müller, _Frag. historic. graec._, t. 3., pp. 359-363.
+
+*) _Essai de commentaire des fragments cosmogoniques de Bèrose_, pp. 96 et suiv.
+
+*) _Cuneiform inscr. of West. As._, t. 1., pl. 70, col. 3, l. 18 ; t. 3., pl. 41, col. 2, l. 16.
+
+*) Guigniaut, _Religions de l'antiquité_, t. 2., pp. 962-978 ; Maury, _Histoire des religions de la Grèce_, t. 3., pp. 123-130.
+
+*) Pausan., 5., 11, 3 ; cf. Gerhard, _Griech. Mythologie_, § 340, 2 ; Panofka, _Musée Blacas_, p. 51.
+
+*) Creuzer, _Symbolik_, l. 8., ch. 2., § 6, t. 3., p. 152 de la traduction Guigniaut.
+
+*) Voy. de Witte, _Rev. numism._, nouv. sér., 1864, p. 31.
+
+---
+
+# 6\.
+
+Les considérations qui précèdent feraient peut-être attendre dans l'époux de Sémiramis, la déesse virile et guerrière, un personnage ambigu dans l'autre sens, un dieu complétement androgyne, comme l'Agdestis de Phrygie,* ou bien un dieu mâle dont l'hermaphroditisme fondamental se révélerait par ses allures efféminées, comme chez les Grecs Dionysus à l'aspect indécis, que M. Guigniaut* a si bien défini « la personnification mâle du principe féminin, » comme en Asie Mineure Atys l'émasculé,* appelé [GREEK] par Anacréon,* et Midas, dans la légende conservée par Athénée,* où il a le costume et les occupations d'une femme, comme en Phénicie Adonis, que Ptolémée Héphestion* dit positivement hermaphrodite* et que les Orphiques appellent [GREEK].* Pourtant il en est autrement dans la légende ; le principal époux qu'elle donne à Sémiramis, Ninus, n'a rien d'efféminé ; il offre à nos regards l'énergie guerrière et la puissance virile dans toute sa force.
+
+Le couple de Ninus et de Sémiramis, tel que le peint la légende, est dans le cycle des personnifications héroïques la reproduction exacte du couple d'_Adar-Samdan_ et _Is'tar_, tel que nous l'offrent de nombreux cylindres, où le dieu mâle et la divinité féminine sont également guerriers, armés de la même manière, vêtus également l'un et l'autre de la robe royale et coiffés de la tiare.* Et ce rapprochement ne nous parait pas fortuit ; de même que Sémiramis est une forme d'_Is'tar_, Ninus, à nos yeux, n'est autre qu'une forme d'_Adar-Samdan_. C'est ce qu'avant nous a déjà reconnu sir Henry Rawlinson,* avec qui nous sommes heureux de nous trouver d'accord, bien que tous ses arguments ne nous semblent pas acceptables. Ce dieu _Adar-Samdan_ est en effet-l'Hercule assyrien, et un héros guerrier et conquérant de ce pays doit nécessairement se confondre avec lui.* D'ailleurs Tacite* nous le montre comme le dieu spécial du canton de Ninive, et, par conséquent, c'est lui qui doit avoir fourni dans le cycle des légendes les traits du héros éponyme de cette ville. Rappelons-nous d'ailleurs que la pyramide sacrée du palais de Ninive était désignée par la voix populaire comme le tombeau de Ninus, et que c'est au même endroit qu'une autre légende, qui sera étudiée dans le second de ces mémoires, plaçait le tombeau de Sardanapale, lequel, comme nous le montrerons et comme Ottfried Müller l'a établi le premier,* était une forme héroïque de Samdan. Le mythe du dieu brûlé sur un bûcher, et dont on conserve le tombeau, s'applique à tous les personnages solaires des religions de l'Asie, puisque en Phénicie c'était Adonis qui était ce dieu et qu'à Babylone le tombeau caché dans la pyramide était celui de _Bel-Marduk_,* mais nous ferons voir, en nous appuyant sur des preuves positives, qu'en Assyrie cette conception s'attachait tout spécialement à _Adar-Samdan_. Le nom idéographique d'_Adar_ s'écrit, après le déterminatif aphone de l'idée de « dieu, » soit par un seul signe qui a, pris phonétiquement, la valeur _nin_, [SVG], soit par ce signe, suivi de celui qui représente la syllabe _dar_ (et aussi _ip_, car il est polyphone), jouant ici le rôle de complément phonétique, [SVG].* Or, nous avons constaté ailleurs* que Damascius* appelait [GREEK] le dieu _Bel_, d'après la valeur phonétique _ilu-en_ des signes composant son nom idéographique, [SVG], soit par suite d'une erreur de lecture, soit que quelquefois on prononçât pour leur valeur phonétique ces combinaisons d'idéogrammes. Il est donc possible et même probable que les interprètes qui se mirent à une certaine époque au service des Perses, puis des Grecs, et peut-être les Assyriens eux-mêmes, lisaient quelquefois _nin_ ou _nin-ip_ le nom du dieu _Adar_, comme le font encore actuellement la plupart des assyriologues (à tort suivant nous). On peut même avec quelque vraisemblance conjecturer que _Nin-ip_, ou plutôt _Nindar_, était la lecture accadienne correspondant au nom assyrien _Adar_, comme _Nin-s'illu_ était celle qui correspondait à _Nisruk_ et _En-kit_, celle qui répondait à _Bel-Dagan_.* Cette lecture fournissait une allitération toute naturelle avec le nom de la ville de Ninive, et ne doit pas avoir été étrangère à la formation du personnage héroïque de Ninus.
+
+*) Pausan., 7., 17, 5 ; Arnob., _Adv. gent._, 5., 5.
+
+*) _Religions de l'antiquité_, t. 3., p. 933.
+
+*) Ovid., _Metam._, 10., v. 104 et suiv. ; _Fast._, 4., v. 223 et suiv. ; Serv. _ad_ Virgil., _Æneid._, 9., v. 116 ; Arnob., _Adv. gent._, 5., 4.
+
+*) _Od._, 13., v. 2.
+
+*) 12., p. 516.
+
+*) P. 33, ed. Roulez.
+
+*) Voy. de Witte, _Nouv. ann. de l'Inst. arch._, t. 1., p. 528.
+
+*) Orph., _Hymn._, 56., v. 4.
+
+*) Cullimore, _Oriental cylinders_, n° 28 ; Lajard, _Culte de Mithra_, pl. 29, n° 6 ; 30., n° 7 ; 35., n° 9.
+
+*) Dans une dissertation jointe au tome 1er de l'Hérodote anglais de son frère, M. George Rawlinson, p. 622.
+
+*) Voy. sur le caractère de ce dieu notre _Essai de commentaire des fragments cosmogoniques de Bèrose_, pp. 109-112.
+
+*) _Annal._, 12., 13.
+
+*) _Sandon und Sardanapal_, dans le _Rheinisches Museum für Philologie_, 1re sér., t. 3.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 364.
+
+*) Même ouvrage, p. 107.
+
+*) Même ouvrage, p. 65.
+
+L'identité fondamentale du héros Ninus et du dieu _Adar-Samdan_, est encore confirmée par la version postérieure de la légende qui appelle [GREEK] le héros national, conquérant et guerrier, de l'Assyrie.* Il est impossible, en effet, de méconnaître dans ce nom le mot [HEBREW], qui désigne le taureau dans l'idiome araméen, lequel, un peu avant l'ère chrétienne, supplanta l'assyrien sur toute l'étendue de son ancien domaine. Or, des textes positifs prouvent que pour les Assyriens _Adar-Samdan_ était le dieu-taureau par excellence, qu'il présidait au signe zodiacal du taureau et à la constellation de ce nom.* Le taureau, dans la symbolique de l'Asie et en général de toute l'antiquité, est essentiellement l'animal du principe humide.* Il est en rapport étroit avec les divinités ichthyomorphes.* Aussi les deux formes du taureau et du poisson se confondent-elles, sur quelques monuments représentant le mythe originairement phénicien de l'enlèvement d'Europe, dans la figure d'un taureau à queue de poisson.* L'attribution du taureau au dieu _Adar-Samdan_ prouve donc que, par suite de cette association des contraires dont nous rencontrons à chaque pas les exemples sous des formes indéfiniment variées, si ce dieu est essentiellement un de ceux du principe solaire et igné, il tient aussi par certains côtés au principe contraire, à l'élément humide.
+
+*) _De princip._, 125.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 98.
+
+*) Chronic. pasch._, t. 1., p. 68, ed. Dindorf.
+
+*) H. Rawlinson, dissertation insérée à la suite du tome 1er de l'Hérodote anglais, p. 621 ; et notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 232.
+
+*) Voy. le mémoire de Lajard sur le taureau et le lion, inséré dans ses _Recherches sur le culte 
+de Vénus_ ; De Vogüé, _Mélanges d'archéologie orientale_, pp. 63 et suiv.
+
+*) Voy. Ch. Lenormant, _Nouvelle galerie mythologique_, p. 63.
+
+*) Ch. Lenormant, _Nouvelle galerie mythologique_, pl. 51., n° 3 ; cf. le texte, p. 64.
 
 ...
