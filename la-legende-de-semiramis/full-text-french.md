@@ -584,4 +584,171 @@ Nous trouvons un second indice du caractère de personnification du principe hum
 
 *) Serv. _ad_ Virgil., _Georg._, 1., v. 12.
 
+Nous sommes autorisé à faire ces rapprochements, car des textes et des monuments positifs prouvent que la donnée génératrice des mythes que nous venons de citer, l'attribution du cheval au principe humide, ténébreux et infernal, appartenait à la religion chaldéo-assyrienne. C'est ainsi que le fragment 1 de Bérose, en décrivant les êtres monstrueux nés dans le chaos de la matière humide, d'après les peintures du temple de _Bel_ à Babylone, a rangé dans ce nombre les hippocentaures.* Le cheval est l'animal que combat le dieu lumineux et céleste sur deux monuments publiés par R. Rochette, un sceau babylonien* et une monnaie d'argent des rois Achéménides.* Sur la broderie du vêtement porté par un dieu dans un bas-relief assyrien,* nous voyons un personnage divin muni de quatre ailes qui combat deux chevaux ailés, pareils au Pégase des Grecs, lequel appartient aussi dans son origine au principe humide, puisque son nom rappelle celui de la source, [GREEK], et que d'un coup de pied il fait jaillir la fontaine Hippocrène.* Les deux chevaux ailés rappellent d'ailleurs que sur le coffre de Cypsélus, où tous les types étaient encore marqués d'une si forte empreinte asiatique, on voyait les deux chevaux nés de Posidon, Arion et Scyphius, munis d'ailes.* Et nous les trouvons encore ainsi sur un vase peint de style ancien.*
+
+Faut-il aussi ne pas tenir compte de la ressemblance si frappante, signalée pour la première fois par Dupuis,* mais admise depuis par Creuzer* et par MM. Ch. Lenormant et de Witte,* que présente le nom de l'époux royal de Sémiramis, _Ninus_, reproduit dans son fils _Ninyas_, avec le mot qui, dans les langues sémitiques, désigne le poisson, [HEBREW], assyrien _nunu_ ? Nous nous arrêtons avec d'autant plus de confiance à ce rapprochement qu'il est aujourd'hui certain que le dieu-poisson jouait un rôle important dans le culte spécial de Ninive, et que si le nom de cette ville, _Ninua_, paraît venir de la racine [HEBREW] par une de ces formations au moyen d'un [HEBREW] préfixe si multipliées dans la langue assyrienne,* s'il signifiait donc simplement « demeure, » l'allitération entre _Nunua_ et _nunu_ avait été faite de très-bonne heure par les Assyriens eux-mêmes. Nous en avons la preuve par le nom idéographique de cette ville dans les textes cunéiformes, type archaïque [SVG], type moderne [SVG], qui dérive de l'image d'_un poisson enfermé dans l'enceinte du bassin sacré_, ainsi qu'on le reconnaît encore parfaitement dans le tracé du caractère archaïque.
+
+*) Pausan., 8., 25, 3.
+
+*) Schol. _ad_ Stat., _Thebaid._, 4., 2, v. 43.
+
+*) Voy. Ch. Lenormant, _Nouvelle galerie mythologique_, p. 56, note 9, et p. 90.
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 78 et suiv.
+
+*) _Mém. de l'Acad. des Inscr._, nouv. sér., t. 17., 2e part., pl. 6., n° 15.
+
+*) Ibid., pl. 2., n° 13.
+
+*) Layard, _Monuments of Nineveh_, pl. 44., n° 1.
+
+*) Voy. Vœlcker, _Mythologie des Japet. Geschlecht._, p. 132.
+
+*) Pausan., 6., 17, 4.
+
+*) Ch. Lenormant et de Witte, _El. des mon. céramogr._, t. 3., pl. 16.
+
+*) _Origine des cultes_, t. 2., p. 210.
+
+*) _Symbolik_, l. 4., ch. 3., § 1 ; t. 2., p. 35, de la traduction Guigniaut.
+
+*) _El. des mon. céramogr._, t. 3., p. 77.
+
+*) Voy. Oppert, _Expédition en Mésopotamie_, t. 2., p. 133 ; _Éléments de la grammaire assyrienne_, 2e édit., pp. 100 et suiv.
+
+---
+
+# 5\.
+
+Nous sommes ainsi ramenés au culte particulier de la cité de Nivive, dont Ninus était le héros éponyme, et dont il était aussi le grand dieu, puisque la pyramide sacrée ou _ziggurrat_ attenant au palais royal était regardée comme son tombeau, de même que la pyramide de la cité royale de Babylone était le tombeau de _Bel-Marduk_.* Il est question de cette pyramide dans l'inscription du cylindre de Bellino,* et nous y apprenons que le temple d'_Is'tar_ était situé tout à côté. Le couple divin se trouve ainsi réuni ; Sémiramis est adorée à côté de son époux Ninus.
+
+Il nous semble en effet impossible de méconnaître dans la Sémiramis légendaire une forme héroïque de l'_Is'tar_ de Nivive, déesse que nous avons étudiée dans un autre travail.* _Is'tar_, que Pausanias* indique avec tant d'exactitude comme le prototype et l'origine de l'Astarté ([HEBREW]) phénicienne, passée ensuite en Grèce comme Aphrodite Uranie, était --- nous l'avons dit alors --- une déesse à la fois guerrière et voluptueuse, qui présidait aux batailles et aux plaisirs des sens. Cette double physionomie, ce contraste d'attributions, nous le retrouvons également dans le personnage de Sémiramis, le reine conquérante et dissolue, qui partage sa vie entre les combats et l'amour. Chez les Philistins, où l'on place la naissance de Sémiramis et où Diodore atteste qu'elle était adorée, Astarté avait le même caractère. C'est dans le temple de cette déesse que les Philistins vainqueurs dédient les armes de Saül.* Chez les Phéniciens eux-mêmes, bien que le côté voluptueux prédominât dans son culte, le caractère guerrier lui appartenait aussi, et se manifestait quelquefois.* A Cypre on la surnommait [GREEK].* Sur les monnaies de Sidon,* d'Anthédon* et de Bosra,* Astarté figure tenant la lance dans sa main droite. En Grèce, partout où le culte d'Aphrodite a été directement apporté par les Phéniciens, à Cythère,* à Sparte,* à Corinthe,* nous trouvons une Vénus armée.*
+
+*) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 364 et suiv.
+
+*) L. 45 : Layard, _Inscriptions in the cuneiform character_, pl. 64.
+
+Au reste, une telle réunion de deux rôles en apparence contraires, un tel 
+
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 116-121.
+
+*) 1., 14, 6.
+
+*) 1. Sam., 31., 10.
+
+*) Voy. Movers, _Die Phœnizier_, t. 1., pp. 633 et suiv.
+
+*) Hesyeh., _s. v._
+
+*) Eckhel, _Doctr. num. vet._, t. 3., p. 371.
+
+*) Eckhel, _Doctr. num. vet._, t. 3., p. 443.
+
+*) _Ibid._, p. 501.
+
+*) Pausan., 3., 23, 1.
+
+*) Pausan., 3., 15, 8 ; Plutarch, _De fort. Roman._, t. 7., p. 260, ed. Reiske.
+
+*) Pausan., 2., 4, 7.
+
+*) C'est comme déesse guerrière qu'Astarté est figurée dans les bas-reliefs ptolémaïques du temple d'Edfou, parmi les auxiliaires divins d'Horus : Naville, _Textes relatifs au mythe d'Horus, recueillis dans le temple d'Edfou_, pl. 13. Elle a une tête de lionne, surmontée du disque solaire, tient à la main un fouet et est debout sur un char que traînent quatre chevaux, foulant aux pieds un ennemi vaincu. Ses titres, inscrits à côté de sa figure, sont : « _Astert_, rectrice des chevaux et du char, résidant dans _Utes-Hor_. »
+
+« contraste de pureté et d'impureté, d'énergie belliqueuse et de volupté sans frein, » pour nous servir des expressions de M. Guigniaut, se reproduit, mais d'une manière plus ou moins accentuée, dans toutes les innombrables formes de la divinité féminine des religions de l'Asie. Nous l'avons signalé dans le personnage d'Anaïtis, lorsque nous en avons fait l'objet de nos recherches.* La Tanith de Carthage, appelée des Romains _Dea Coelestis_, apparaît sur une monnaie de Septime Sévère assise sur un lion et tenant la lance,* et ce type se montre aussi sur quelques pierres gravées.* Par une analogie remarquable avec Sémiramis et Astarté, sur une des plus anciennes monnaies de la colonie romaine de Carthage on voit le temple de cette déesse, dont le fronton est occupé par une colombe volante.* Il faut aussi se rappeler la riche série des mythes des Amazones,* que l'illustre Gerhard a si savamment rattachée aux conceptions des religions de la race syro-phénicienne ou sémitique, en établissant qu'elle en tirait son origine.* Or, une des versions de la légende de Sémiramis vient y mêler les Amazones. Suivant cette version, l'amant de Dercéto, le père de la future reine d'Assyrie, est Caystros, fils de la reine des Amazones Penthésilée, et Sémiramis appartient ainsi à leur race.*
+
+Le caractère viril et guerrier attribué à la déesse féminine est une variété d'androgynisme ; tous les mythologues sont d'accord sur ce point. C'est une manière de rappeler dans la personnification séparée du principe féminin l'unité panthéistique d'où elle sort, le caractère compréhensif de l'être divin primordial, qui réunit les deux puissances active et passive, les propriétés des deux sexes, et qui se décompose ensuite dans la dualité du dieu mâle et du dieu femelle. Comme l'a très-bien dit M. de Vogüé,* « l'indécision est le souvenir de l'unité ; chaque personnification ne saurait se débarrasser complétement des caractères généraux du type original. »
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 148-165.
+
+*) Gesenius, _Monumenta phœnicia_, pl. 16., _a._
+
+*) Gesenius, _Mon. phœn._, pl. 16., _b_ et _d_.
+
+*) Gesenius, _Mon. phœn._, pl. 16., _c_.
+
+*) Voy. Guigniaut, _Religions de l'antiquité_, t. 2., pp. 979-990 ; Maury, _Histoire des religions de la Grèce_, t. 3., pp. 177 et suiv.
+
+*) _Bemerkungen zur vergleichende Mythologie_, dans les _Monatsberichten_ de l'Académie de Berlin, juin 1855, pp. 369 et suiv.
+
+*) Étymol. Gudian., v° [GREEK] ; cf. Sueton., _Jul. Cæs._, 22.
+
+*) _Mélanges d'archéologie orientale_, p. 71.
+
+Nous ne pouvons ici, sans nous étendre outre mesure, montrer toute l'étendue de la conception de l'androgyne divin dans les diverses religions de l'antiquité, l'importance de son rôle et les nombreuses applications qu'en offre la mythologie : il suffira de renvoyer le lecteur aux travaux où ce sujet a été le plus spécialement étudié.* Mais il faut du moins signaler les principaux exemples de l'attribution du caractère d'androgynisme aux divinités féminines, surtout dans les religions asiatiques, sous les deux formes où ce caractère peut se marquer et que mon père a appelées l'hermaphrodite _complet_ et l'hermaphodrite _passif_.
+
+On signale à Cypre, au milieu des personnifications d'origine phénicienne qui constituaient les objets du culte de cette île, une _Venus barbata_, aux vêtements et au corps de femme, à la barbe et à la _nature_ masculine, _signum barbatum_, _corpore et veste muliebri, cum sceptro et natura virili_.* Le culte en avait passé dans la Pamphylie* et à Rome.* Nous croyons reconnaître cette _Venus barbata_ dans une belle figurine de terre cuite du Musée de Berlin,* qui représente un personnage barbu avec les habits, la coiffure et les bijoux d'une femme. Ce n'est pas un homme déguisé, car cette figure a les seins gonflés et les formes arrondies qui appartiennent en propre au sexe féminin. Aristophane parlait d'un dieu [GREEK].* Münter,* Heinrich,* Lajard* et Movers* ont disserté sur cette Vénus mâle ou androgyne. Le R. P. Bourquenoud* en a reconnu la mention dans la seconde des inscriptions rapportées d'Oum-el-Awamid par M. Renan,* où Astarté est appelée, _au masculin_, « roi » et « dieu solaire, » [HEBREW]. La Vénus mâle est également signalée dans le culte du Yémen par Schahrestâny,* et les inscriptions himyaritiques la mentionnent fréquemment sous le nom de [HEBREW],* bien voisin de celui de l'_Is'tar_ chaldéo-assyrienne.*
+
+*) Ch. Lenormant, _Ann. de l'Inst. arch._, t. 6., pp. 252-264 ; et notre _Monographie de la Voie Sacrée Éleusinienne_, t. 1., p. 358-372.
+
+*) Serv. _ad_ Virgil., _Æneid._, 2., v. 632 ; Macrob., _Saturn._, 3., 8.
+
+*) Lyd., _De mens._, pp. 24 et 29.
+
+*) Suid., v° [GREEK] ; Codin., _De orig. Constantinop._, p. 14, ed. de Paris ; Schol. Venet. B Villois. _ad_ Homer., _Iliad._, B, v. 820 ; Schol. Lips. _ad_ Homer., _ap._ Heyne, t. 4., p. 693 de son édition ; cf. Lyd., _De mens._, pp. 24 et 29.
+
+*) Panofka, _Terracotten des Kœnigl. Museums zu Berlin_, pl. 36.
+
+*) _Ap._ Macrob., _Saturn._, 3., 8 ; cf. Serv. _ad_ Virgil., _Æneid._, 2., v. 632 ; Hesych., v° [GREEK].
+
+*) _Religion der Karthager_, pp. 62 et suiv.
+
+*) _De hermaphroditis._
+
+*) _Nouv. ann. de l'Inst. arch._, t. 1., p. 161-211.
+
+*) _Die Phœnizier_, t. 1., pp. 641 et suiv.
+
+La célèbre Astarté de Paphos, nous le savons par les témoignages de Tacite,* de Philostrate,* de Maxime de Tyr* et de Servius,* ainsi que par les types des médailles frappées à Cypre sous la domination romaine,* était adorée sous la forme d'une pierre conique.* Le même cône se voit placé entre deux cyprès, sous le portique du temple d'Astarté, au revers d'une curieuse monnaie d'Ælia Capitolina.* D'autres monuments monétaires de l'Asie occidentale, et notamment une médaille coloniale d'Héliopolis, frappée en l'honneur de Philippe père,* nous offrent l'image d'Astarté debout entre deux personnages supportés chacun par un cône, ou par un cippe de forme conique. Les ex-voto du temple de Tanith ou de la _Dea coelestis_ à Carthage présentent une figure semblable, munie d'une tête et de bras.* On a même découvert dans les ruines de cette dernière ville un cône de dimensions considérables, qui avait évidemment servi d'idole,* et un autre dans la Giganteja du Gozzo.* Enfin diverses parties de la Grèce ont fourni des cônes de terre cuite, dont quelques-uns avec l'inscription [GREEK].*
+
+*) _Études religieuses, historiques et littéraires par des Pères de la Compagnie de Jésus_, 1864, pp. 1072 et suiv.
+
+*) _Journal asiatique_, 5e série, t. 20., pl. 2.
+
+*) Ap. Pocock., _Spec. hist. Arab._, p. 120, ed. De White.
+
+*) _Journal asiatique_, 4e série, t. 6., pp. 172 et suiv., n°s 9, 55 et 56 ; _Inscriptions in the himyaritic character now in the British Museum_, n°s 6, 29, 32 et 34.
+
+*) Voy. ce que nous avons dit de ce personnage dans les _Comptes rendus de l'Académie des inscriptions et belles-lettres_, 1867, pp. 125 et suiv.
+
+*) _Histor._, 2., 3.
+
+*) _Vit. Apollon. Tyan._, 3., 58.
+
+*) _Dissert._, 8., 8.
+
+*) _Ad Virgil. Æneid._, 1., v. 720.
+
+*) Mionnet, _Descr. de méd. ant._, t. 3., pp. 670 et suiv., n°s 1-3, 9-12, 16, 17, 23, 26, 30, 32-36, 39-41 ; _Suppl._, t. 7., pp. 303 et suiv., n°s 1-3, 8-16 ; Millin, _Galerie mythologique_, pl. 43., n°s 171-173 ; _Mon. inéd. de la sect. franç. de l'Inst. arch._, pl. 4., n°s 10-12 ; Lajard, _Recherches sur le culte de Vénus_, pl. 1., n°s 10-12 ; Gerhard, _Über die Kunst der Phœnicier_, pl. 3., n° 17.
+
+*) Voy. Münter, _Der Tempel der Himmlischen Gœttin zu Paphos_, Copenhague, 1824, in-4° ; Guigniaut, _La Vénus de Paphos et son temple_, à la fin du t. 4 de la traduction de Tacite par Burnouf.
+
+*) Lajard, _Culte de Vénus_, pl. 15., n° 9.
+
+*) _Ibid._, n° 2.
+
+Tout montre ainsi que le cône, une des trois formes divines par excellence (les deux autres sont la sphère et le cylindre), suivant une célèbre inscription découverte à Pergame,* où le culte de la Vénus de Paphos était florissant, fut, sinon exclusivement, au moins principalement consacré à cette grande déesse. Mais le cône, comme le Lingam indien, n'est qu'une figure déguisée et épurée du phallus ; les académiciens d'Herculanum l'ont entrevu les premiers* ; après eux Creuzer* et M. Guigniaut* en ont complété la démonstration de la manière la plus positive. Clément d'Alexandrie* et Arnobe* racontent que l'on distribuait des phallus aux initiés du temple de Paphos ; mais Münter a fort bien établi que ce devaient être seulement de petits cônes analogues à ceux, si multipliés dans les collections d'antiquités, qui portent gravé sous le plat un sujet de travail asiatique.* C'est ainsi qu'au commencement du seizième siècle avant notre ère, nous voyons un marchand grec de Naucratis, nommé Hérostrate, rapporter de Paphos dans sa patrie une petite image de la déesse, d'un palme de longueur, qui y devint l'objet d'un culte important.* Tout ceci nous donne le droit de supposer que les deux grands phallus que Lucien* dit avoir vus en avant du temple d'Hiérapolis de Syrie ou Bambyce, devaient être des cônes analogues à celui de l'Astarté Paphienne, et sans doute reproduire le même type que les _moughazil_ qui se dressent encore aujourd'hui au milieu des ruines de l'antique Marathus.*
+
+*) Gesenius, _Monumenta phœnicia_, pl. 23. et 24.
+
+*) Hamaker, _Diatribe philologico-critico monumentorum aliquot punicorum nuper in Africa repertorum interpretationem exhibens_, pl. 1., n°s 1-4 ; Münter, _D. Temp. d. Himml. Gœtt._, p. 11.
+
+*) La Marmora, _Nouv. ann. de l'Inst. arch._, t. 1., pp. 10 et suiv. ; _Mon. inéd. de la soc. franç., de l'Inst. arch._, pl. 2., _o_, _o_' et _o_''.
+
+*) Dodwell, _Tour in Greece_, t. 1., p. 34.
+
+*) Choiseul-Gouffier, _Voyage pittoresque de la Grèce_, t. 2., p. 171 ; _Corp. inscr. græc._, n° 3546.
+
+*) _Pitture d'Ercolano_, t. 3., p. 275.
+
+*) _Symbolik_, l. 4., ch. 6., § 2 ; t. 2., pp. 221 et suiv. de la traduction Guigniaut.
+
+*) _La Vénus de Paphos et son temple_, p. 429.
+
+*) _Protrept._, 2., p. 13, ed. Potter.
+
+*) _Adv. gent._, 5., 19.
+
+*) Sur l'usage de porter ces cônes au col comme des amulettes et les monuments asiatiques qui l'établissent, voy. De Longpérier, _Notice des antiquités assyriennes du Musée du Louvre_, 3e édit., pp. 73 et 103.
+
 ...
