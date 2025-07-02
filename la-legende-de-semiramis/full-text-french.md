@@ -28,6 +28,10 @@
 
 # [6\.](#6-1)
 
+# [7\.](#7-1)
+
+# [8\.](#8-1)
+
 ...
 
 ---
@@ -896,5 +900,141 @@ de Vénus_ ; De Vogüé, _Mélanges d'archéologie orientale_, pp. 63 et suiv.
 *) Voy. Ch. Lenormant, _Nouvelle galerie mythologique_, p. 63.
 
 *) Ch. Lenormant, _Nouvelle galerie mythologique_, pl. 51., n° 3 ; cf. le texte, p. 64.
+
+Il est bon de se souvenir ici de ce que nous avons fait déjà remarquer ailleurs* comme un des côtés les plus importants de la conception du personnage divin qui nous occupe en ce moment. En général, dans la religion chaldéo-assyrienne, les dieux des planètes --- à la classe desquels appartient _Adar_ comme présidant à la planète Saturne --- ne sont que des formes, des manifestations secondes des dieux de l'ordre supérieur. Tel est le rapport entre _Adar-Samdan_ et _Anu_, dont sir Henry Rawlinson a fait remarquer la parenté,* qui reçoivent beaucoup des mêmes titres et à qui est commune l'appellation accadienne de _Uras'_, dont le sens parait avoir été « le générateur.* » Une tablette* enregistre même _Adar_ parmi les noms d'_Anu_. Dans la belle invocation à ce dieu qui ouvre l'inscription de _S'ams'i-Bin_ 3, il reçoit les qualifications de « premier-né du dieu des _Anunnaki_, » --- ce dieu est _Anu_* --- « l'ancien (_allalu_) des dieux, absorpteur (_s'upî_) invariable, indicateur du soleil boréal, maître suprême qui chevauche sur l'éclair (_abubi_).* » De telles épithètes montrent dans tout son jour le lien étroit qui rattache le dieu _Adar-Samdan_ au grand dieu _Anu_, ou, pour parler le langage de la légende héroïque, le second époux de Sémiramis, Ninus, à son premier époux, Onnès ou Oannes. C'est envisagé sous ce point de vue qu'_Adar-Samdan_ reçoit quelquefois dans les inscriptions cunéiformes des titres qui semblent en contradiction avec ceux qui lui appartiennent plus habituellement, qu'il est appelé « celui qui ouvre les canaux, » le dieu de la mer et des fleuves, » « celui qui habite dans les profondeurs de l'abime.* » L'emblème du poisson ne lui est donc pas absolument étranger, et l'allitération de _nunu_ avec _Ninua_ (et peut-être avec _Ninip_), dont nous avons vu tout à l'heure l'importance dans la légende de Sémiramis, a pu lui être appliquée. Aussi, dans la si curieuse série de titres et d'épithètes que lui donne l'invocation placée en tête du grand monolithe d'_As's'ur-nasir-pal_ à Nimroud voyons-nous ce même dieu appelé « fils ainé du poisson et de la femelle qui s'élève dans le ciel (_pal ris'tan nuni au naqbit qumate_), premier-né du dieu sans fin (_nu kimmut_), protecteur des cinq et des deux dieux sidéraux.* »
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 112.
+
+*) _Journal of the Royal Asiatic Society_, new sér., t. 1., pp. 202 et 230.
+
+*) Voy. H. Rawlinson, même mémoire, p. 230 ; et notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 109.
+
+*) _Cuneif. inscr. of West. As._, t. 3., pl. 69, n° 1, l. 5.
+
+*) Sur les _Anunnaki_, voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 131 et suiv.
+
+*) Col. 1, l. 7-10 : _Cuneif. inscr. of West. As._, t. 1., pl. 29.
+
+Mais de même qu'en étant par essence un dieu igné et solaire, il participe pourtant, dans une certaine mesure, du principe humide ; par une conséquence nécessaire de cette conception, _Adar_ a beau se montrer ordinairement sous l'aspect de _Samdan_, « le puissant, » il a beau, dans la plupart de ses titres et de ses représentations figurées, offrir le caractère de la personnification de la force et de l'énergie virile à sa suprême puissance, c'est en même temps, de tous les dieux mâles du panthéon chaldéo-assyrien, celui dans lequel on retrouve le plus facilement des traits caractéristiques de l'androgynisme fondamental. Toute une nombreuse classe de mythes, que nous étudierons en continuant cette série de mémoires, celui de Sardanapale et celui de Parsondas, entre autres, représentent ce dieu terrible tombant dans un état d'effémination étrange, prenant les vêtements et les habitudes d'une femme, et devenant véritablement hermaphrodite. Il y semble atteint de cette [GREEK] qu'Hérodote* montre frappant comme châtiment ceux des Scythes qui avaient pillé le temple d'Ascalon, consacré à Sémiramis et à sa mère Dercéto. Dans la légende, le personnage de Ninus n'a rien de ce côté de la physionomie du dieu avec lequel il se confond ; il en représente exclusivement la face virile et guerrière. Mais les deux aspects opposés du dieu assyrien se sont dédoublés dans la légende héroïque en deux personnifications différentes, car, à côté du terrible Ninus, nous y trouvons son fils, l'efféminé Ninyas, dont le nom ne diffère pas essentiellement du sien, et qui, vivant au milieu des femmes de son harem, portant leur costume et partageant leurs occupations, ne diffère en rien des autres héros qui représentent le côté androgyne d'_Adar-Samdan_, comme Sardanapale ou Parsondas.* Ninyas est une répétition du personnage de Ninus, envisagé sous une autre face ; dans toutes les religions antiques le dieu père et le dieu fils, comme la déesse mere et la déesse fille, s'identifient l'un à l'autre et ne sont qu'un même être divin dédoublé.* Cette unité divisée dans une dualité, cette dualité qui se ramène si clairement à l'unité, est une manière d'exprimer mythiquement la notion que l'Égypte formulait dans toute sa netteté, sans voile d'aucune fable, « le dieu qui s'engendre lui-même.* » Et pour nous restreindre à ce qui touche spécialement à la légende de Sémiramis, l'identité du père et du fils, de Ninus et de Ninyas, ressort bien clairement de la version suivie par Justin,* où une passion violente pousse Sémiramis à faire de Ninyas son époux. Nous nous trouvons ainsi en présence du personnage efféminé que nous cherchions tout à l'heure comme devant faire le pendant naturel, et pour ainsi dire obligé, de la virile Sémiramis.
+
+*) Voy. H. Rawlinson, dissertation jointe au tome 1er de l'Hérodote anglais, p. 619.
+
+*) _Cuneif. inscr. of West. As._, t. 1., pl. 17, l. 2.
+
+*) 1., 105.
+
+Pour acquérir la conviction que nous ne nous trompons pas en envisageant ainsi le personnage de Ninus, il suffit de se reporter à la forme du même mythe que nous offre, sous d'autres noms, la religion de la Lydie, dans laquelle nous avons dû nous-même* reconnaître une si profonde et si manifeste empreinte assyrienne et dans laquelle l'Hercule apporté des bords du Tigre conservait son nom de _Samdan_ sous la forme non altérée [GREEK].* Elle est d'autant plus curieuse que la Lydie n'avait pas des rapports moins étroits avec Ascalon qu'avec l'Assyrie, avec l'un qu'avec l'autre siége du culte de la déesse Sémiramis. On donnait en effet pour héros éponyme et pour fondateur à Ascalon le lydien Ascalos,* et nous avons vu tout à l'heure qu'une tradition faisait aussi intervenir le lydien Mopsus dans la métamorphose d'Atergatis en poisson à Ascalon.* Le mythe dont nous voulons parler est celui d'Omphale, popularisé de très-bonne heure chez les Grecs, mais dont l'origine assyrienne et la parenté intime avec la légende de Sémiramis a été déjà reconnue par Ottfried Müller,* Movers,* R. Rochette* et M. Maury.* Hercule, dans ce mythe, est vendu comme esclave à Omphale, reine de Lydie, fille d'Iardanus, et la sert pendant plusieurs années, étant son amant en même temps que son esclave.* Dans cet esclavage, le dieu dompteur de monstres s'avilit jusqu'à filer au milieu des femmes de la reine* et à revêtir la robe transparente des courtisanes lydiennes, qui reçoit à cause de lui le nom de [GREEK].* Cet échange des attributs entre Hercule, vêtu d'habits féminins et tenant le fuseau, et Omphale, qui lui a pris la peau de lion et la massue, est devenu pour les artistes grecs un sujet favori, à cause des contrastes piquants auxquels il prêtait.* Mais il n'était que la reproduction embellie des anciens simulacres religieux des Lydiens ; car, à côté de l'Hercule _Samdan_ androgyne, Omphale était une déesse à la fois guerrière et voluptueuse, comme Sémiramis, à laquelle la massue et la peau de lion appartenaient en tant qu'attributs propres. C'est de cette manière, munie des mêmes armes qu'Hercule, armes qui appartiennent également à l'_Is'tar_ chaldéo-assyrienne sous sa forme guerrière, c'est ainsi que nous la voyons représentée sur les monnaies impériales de Sardes* et sur celles de Méonie et de Tmolus de Lydie.* Une pièce d'Euménia de Phrygie la montre même, tenant d'une main la peau de lion d'Hercule et portant sur l'autre une colombe, comme Sémiramis.* On célébrait dans la Lydie, en l'honneur d'Omphale et d'Hercule, des fêtes où les sexes échangeaient leurs vêtements,* fêtes qui avaient leurs analogues en Grèce.*
+
+*) Sur Ninyas, voy. Diod, Sic., 2., 21 ; Athen., 12., p. 528 ; Justin., 1., 2 ; Cephalion _ap._ Syncell., p. 167.
+
+*) Voy. Gerhard, _Antike Bildwerke_, p. 56, notes 95 et 96 ; et notre _Monographie de la Voie Sacrée Éleusinienne_, t. 1., p. 318.
+
+*) Voy. De Rougé, _Mémoire sur la statuette naophore du Vatican_, dans la _Revue archéologique_, t. 8., pp. 37-60 ; Mariette, _Mémoire sur la mère d'Apis_, Paris, 1856, in-4° ; Maury, _Histoire des religions de la Grèce_, t. 3., pp. 197 et 290.
+
+*) 1., 2.
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 146-148.
+
+*) J. Lyd., _De magistrat._, 3., 64.
+
+*) Steph. Byz., v° [GREEK].
+
+*) Mnaseas et Xanth., _ap._ Athen., 8., p. 346.
+
+*) _Rheinisches Museum_, 1re série, t. 3., p. 29.
+
+*) _Die Phœnizier_, t. 1., pp. 469-477.
+
+*) _Mém. de l'Acad. des Inscr._, nouv. sér., t. 17., 2e part., pp. 232 et suiv.
+
+*) _Histoire des religions de la Grèce_, t. 3., pp. 152 et suiv.
+
+*) Apollodor., 1., 9, 19 ; 2., 6, 3 ; Sophocl., _Trachin._, v. 253 ; Plutarch., _Thes._, 6 ; Palæphat., _De incred._, 5 ; Terent., _Eunuch._, act. 5., sc. 8., v. 3 ; Eustath. _ad_ Homer., _Odyss._, [GREEK], p. 1900 ; Ephor. _ap._ Schol. _ad_ Apollon. Rhod., _Argonaut._, 1., v. 1929 ; Diod. Sic., 4., 31 ; Tzetz., _Chiliad._, 2., v. 36.
+
+*) Donat. _in_ Terent., _Eunuch._, loc. laud.
+
+*) Lyd., _De magistrat._, 3., 64 ; cf. Plutarch., _An sen. sit. ger. resp._, t. 9., p. 140, ed. Reiske.
+
+*) Voy. Ottfr. Müller, _Handbuch der Archæologie_, § 410, 7.
+
+De cette union de l'Hercule Sandon efféminé et de la guerrière Omphale prétendait descendre la dynastie, très-historiquement d'origine assyrienne,* des rois de Lydie qui se qualifiaient d'Héraclides,* comme les rois de la première dynastie ninivite, avec lesquels ils étaient probablement apparentés, se disaient issus du couple de Ninus et de Sémiramis, c'est-à-dire d'_Adar-Samdan_ et d'_Is'tar_. L'insigne royal des Héraclides de Lydie était un baudrier, originairement celui de la reine des Amazones, qu'Hercule lui avait enlevé pour Omphale et qui était devenu celui de la reine lydienne, présentée ainsi elle-même comme une Amazone.* Ce nouvel attribut d'Omphale nous suggère pour son nom une étymologie tirée de la langue assyrienne, qui aurait trait à son caractère guerrier et nous paraît préférable à celles qu'ont proposées Movers ([HEBREW], _ancilla eximia_) et M. Maury [HEBREW], _mater voluptatis_) ; c'est _um-pali_, la mère du glaive » (le mot assyrien _palu_, « glaive, » est l'arabe [ARABIC]. Le nom de son époux [GREEK] étant purement assyrien, il est conforme à toutes les vraisemblances de supposer que celui d'[GREEK] doit avoir la même origine.
+
+*) Eckhel, _Doctr. num. vet._, t. 3., p. 113.
+
+*) Eckhel, _Doctr. num. vet._, t. 3., p. 105.
+
+*) Sestini, _Descriptio nummorum veterum_, p. 464, n° 5 ; Mionnet, _Descr. de méd. ant._, t. 4., p. 294, n° 568.
+
+*) Lyd., _De mens._, p. 220.
+
+*) Polyæn., _Stratagem._, 8., 33 ; Plutarch., _De virtut. mulier._, p. 245 ; Macrob., _Saturn._, 3., 8.
+
+*) Voy. Movers, _Die Phœnizier_, t. 1., pp. 73 et suiv. ; Oppert, _Annales de philosophie chrétienne_, février 1856 ; notre _Manuel d'histoire ancienne de l'Orient_, 3e édit., t. 2., pp. 384 et suiv. ; et notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 146-148.
+
+*) Herodot., 1., 7.
+
+*) Plutarch., _Quaest. Græc._, 45.
+
+Cléarque* donnait une tout autre version du mythe d'Omphale, mais où se reproduisent toujours les deux données fondamentales de la personnification féminine à la fois voluptueuse et guerrière et du personnage mâle tellement efféminé qu'il en est réellement hermaprodite. Dans ce récit Omphale est une esclave du roi Midas, soumise d'abord, comme toutes les femmes des Lydiens, à la prostitution sacrée, puis détrônant Midas, prince dégradé jusqu'à « vivre au milieu des femmes de son palais, assis sur la pourpre et la quenouille à la main. » Devenue reine, elle oblige les Lydiens, réduits à la condition de femmes, à reconnaître la domination de leurs esclaves, et livre à ceux-ci les filles de leurs maîtres. Quant à elle, elle s'adonne à tous les excès de la débauche, et fait périr ses amants, comme Sémiramis. Hérodote paraît avoir connu cette version de la légende, puisque, en parlant de l'origine de la dynastie des Héraclides,* il fait d'Omphale l'esclave et non plus la fille du roi de Lydie Iardanus. Le lecteur ne peut manquer d'être frappé de l'identité de ce récit avec celui où Sémiramis est donnée comme une esclave du harem de Ninus, qui détrône le roi en profitant de la fête des Sacées où les esclaves commandaient.* Nous avons traité ailleurs* de cette fête des Sacées, et nous avons établi qu'elle était consacrée à l'_Is'tar_-_Zirbanit_, ou _Zarpanit_, la forme spécialement génératrice et lascive de la déesse.
+
+*) _Ap._ Athen., 12., p. 515 ; cf. Eustath. _ad_ Homer., _Iliad._, 2., p. 1082.
+
+*) Herodot., 2., 7.
+
+*) Diod. Sic., 2., 20 ; Ælian., _Var. hist._, 7., 1 ; cf. Plin., _Hist. nat._, 35., 36, 9.
+
+*) _Essai de commentaire des fragments cosmogoniques de Bèrose_, pp. 167-174.
+
+---
+
+# 7\. 
+
+Revenons maintenant à la donnée du récit de Justin sur la passion incestueuse qui saisit Sémiramis pour son fils Ninyas. Ce récit introduit dans la légende de Sémiramis un dernier élément, qui joue un rôle capital dans les conceptions essentielles de toutes les religions antiques et peut être considéré comme un de leurs dogmes fondamentaux, la notion de l'inceste divin.* Il nous faudrait de trop longs développements pour suivre cette idée, sous les formes infiniment variées qu'elle revêt, à travers tous les systèmes religieux du paganisme. Bornons-nous à rappeler que nous l'avons constatée* dans un des couples les plus élevés du panthéon babylonien, dans celui dont l'union produit l'univers visible, puisque _Bel-Dagan_, le démiurge ichthyomorphe, né de _Belit-Tihavti_ et d'_Apsu_,* l'eau primordiale et l'abime, devient à son tour l'époux de _Belit-Tihavti_. De même, dans le culte local de la ville de _Nipur_ dont le sanctuaire était un des plus antiques de la Babylonie, _Belit_ est à la fois mère et épouse du dieu _Adar-Samdan_.* Et sir Henry Rawlinson n'a pas manqué de faire ressortir la relation entre cette donnée fournie par les textes cunéiformes eux-mêmes et les rapports incestueux que l'on prête à Sémiramis avec son fils Ninyas.
+
+La conception de l'inceste divin est une monstrueuse aberration de l'esprit de symbolisme, enfantée par l'identification du dieu père et du dieu fils ou de la déesse mère et de la déesse fille, et résultant d'une tentative d'exprimer, sous une forme sensible, la notion du _dieu qui s'engendre lui-même_. La monade divine fondamentale, telle que la concevait le panthéisme des religions antiques, né dans les sanctuaires savants de l'Asie, était à la fois active et passive, et réunissait dans son hermaphroditisme fécond tous les attributs et toutes les forces de la nature. Par sa propre puissance, _s'engendrant elle-même_, elle produisait sa première manifestation, son logos,* identique à elle-même, et se divisait ainsi dans la dyade, que les Pythagoriciens, dans leurs spéculations empruntées à des doctrines plus anciennes,* appelaient en même temps l'_union_ et la _diversité_, l'_harmonie_ et la _discorde_,* la _mort_ et la _naissance_, la _mère_, la _nourrice_, le _mouvement_,* le passage de l'_unité immobile et stérile_ au _nombre actif et fécond_.* Ainsi se formait la dualité fondamentale du système de théologie naturaliste attribué par toute l'antiquité aux Chaldéens, dualité composée du _père_ qui est _lumière_ et de la _mère_ qui est _ténèbres_, et entre laquelle se partagent toutes les choses de l'univers, les éléments, les astres, le zodiaque, le monde supérieur et le monde inférieur.* A peine séparés, les deux éléments de cette dualité réagissaient l'un sur l'autre dans une lutte à la fois amoureuse et hostile, représentée, soit par l'entreprise du père sur sa fille, comme en Grèce celle du Zeus mystique sur Coré, soit par celle du fils sur sa mère, comme en Égypte celle d'_Amon_ sur _Maut_ dans la religion de Thèbes, suivant qu'on attribuait le rôle actif et le rôle passif, dans cette seconde réaction de l'être divin sur lui-même, à la monade fondamentale ou à son premier produit. En effet, l'échange des rôles que nous avons constaté plus haut entre le principe igné et le principe humide se reproduit sous tous les aspects divers que prend la dualité issue de l'unité et jusque sous la forme abstraite des spéculations arithmétiques. D'après l'auteur des _Philosophumena_ et d'après l'anonyme cité par Meursius, la dyade aurait été regardée comme la _mère_ des nombres et la monade comme leur _père_ ; mais en même temps Nicomaque* attribue au nombre deux la virilité [GREEK], et dans la vieille nomenclature conservée par Boëce* la dyade s'appelle _le mâle_.* Et cette dernière nomenclature est d'autant plus intéressante pour nous que la tradition doit en remonter par une chaîne non interrompue à une origine babylonienne, puisque cinq des noms de nombre, sur neuf, y sont manifestement sémitiques et même assyriens :
+
+*) Voy. Ch. Lenormant, _Nouvelle galerie mythologique_, p. 36 ; et notre _Monographie de la Voie Sacrée Éleusinienne_, t. 1., pp. 490 et suiv.
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 87 et suiv.
+
+*) Damasc., _De princip._, p. 125.
+
+*) Voy. H. Rawlinson, dissertation jointe au tome 1er de l'Hérodote anglais de son frère, p. 625.
+
+*) Voy. notre _Monographie de la Voie Sacrée Éleusinienne_, t. 1., p. 386.
+
+*) Voy. Guigniaut, _Religions de l'antiquité_, t. 3., pp. 1243 et suiv.  
+On est en droit de faire remonter aux Chaldéens toutes ces spéculations sur la philosophie et la théologie des nombres, quand on voit, par une tablette cunéiforme du Musée Britannique, que chaque dieu était symbolisé par un nombre mystique : Hincks, _Transactions of the Royal Irish Academy_, t. 23., pp. 405 et suiv. Les nombres inscrits sur cette tablette s'expliquent par le système de numération sexagésimale propre à la Chaldée et se rapportent aux rangs de la hiérarchie divine : voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 62, 65, 71 et 104.
+
+*) Nicomach., _Theologumen. arithmetic._, pp. 8 et suiv.
+
+*) Anonym. _ap._ Meurs., _Denar. Pythagor._, dans le _Thesaurus antiquitatum græcarum_ de Gronovius, t. 9., p. 1342.
+
+*) Lyd., _De mens._, p. 108.
+
+*) Hippolyt., _Philosophumen._, 1., 2 ; 4., 43 et 51.
+
+|Assyrien :|Hébreu :  
+1\. _Igin_ ou _isin_.|_is'tin_.|[HEBREW].  
+4\. _Arbas_.|_arba'_.|[HEBREW].  
+5\. _Quimas_.|_χams'a_.|[HEBREW].  
+7\. _Zekis_.|_s'ibit_.|[HEBREW].  
+8\. _Temenias_.|_s'umunu._|[HEBREW].
+
+La donnée de l'inceste divin peut donc se présenter sous deux formes dans les mythes en action. Or, la légende de Sémiramis nous en offre précisément les deux formes dans ses différentes versions. Si certains récits montrent la reine légendaire éprise de son fils Ninyas, d'autres, non moins populaires dans l'antiquité, prétendent qu'elle était la fille de Ninus et que, après avoir épousé son propre père, elle autorisa ces sortes de mariages incestueux, demeurés en usage chez les Perses.* C'est ainsi que dans la religion de la Phénicie Adonis naît du commerce de Cinyras avec sa fille Myrrha.* Au reste, cette dernière version est la plus conforme à l'enchaînement général de la légende complète, telle que la rapportait Ctésias. Fille d'un être ichthyomorphe, Dercéto, la déesse colombe, Sémiramis, épouse un dieu-poisson, Ninus = _nunu_ ; sortie du principe humide, de l'abîme primordial, la déesse ignée est fécondée par l'action de ce principe.
+
+*) _Theologumen. arithmetic._, p. 7.
+
+*) _Geom._, 1.
+
+*) Cf. Vincent, _Revue archéologique_, t. 2., p. 602.
+
+*) Conon. _ap._ Phot., _Biblioth._, p. 132 ; Macrob., _In somn. Scip._, 2., 10.
+
+*) Apollodor., 3., 14, 3 ; Hygin., _Fab._, 58, 164, 251 et 271 ; Lact. Placid., _Fab._, 10., 9, 10.
+
+---
+
+# 8\.
 
 ...
