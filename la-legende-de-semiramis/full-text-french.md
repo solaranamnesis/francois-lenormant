@@ -32,8 +32,6 @@
 
 # [8\.](#8-1)
 
-...
-
 ---
 
 Parmi les légendes relatives à l'ancienne histoire de l'Asie, il n'en est pas qui ait eu une fortune plus brillante que celle de Ninus et de Sémiramis. Elle fut popularisée par Ctésias chez les Grecs, dont le goût pour le merveilleux s'en empara avidement, la trouvant bien plus agréable que les récits _vrais_ d'Hérodote. Toute l'antiquité classique y ajouta foi, et depuis la renaissance des lettres les érudits, acceptant implicitement l'idée que cette légende reposait sur un fondement historique véritable, n'ont point songé à en révoquer en doute les faits essentiels, jusqu'au jour où le déchiffrement des textes cunéiformes a révélé d'une manière positive et inattendue que l'histoire de Ninus et de Sémiramis, leurs exploits, leurs immenses conquêtes, n'étaient qu'un tissu de fables puériles, démenti sur tous les points par les faits réels des origines de la monarchie assyrienne.
@@ -1037,4 +1035,72 @@ La donnée de l'inceste divin peut donc se présenter sous deux formes dans les 
 
 # 8\.
 
-...
+Ainsi, de rapprochements en rapprochements, nous sommes parvenu à nous rendre compte de l'origine de la légende de Sémiramis et de la conception de ce personnage divin introduit dans l'histoire, mais dont le véritable caractère avait été déjà fort bien reconnu par Creuzer* et par Movers.* Il ne nous reste plus, pour compléter cette étude, qu'à examiner le nom même de Sémiramis, à rechercher quelle pourrait en être la forme réelle et l'origine ; car ce nom n'est pas une invention des Grecs ; on nous affirme qu'il était employé par des populations indigènes en Assyrie et à Ascalon.
+
+Diodore* dit : [GREEK]. Et dans Hésychius nous lisons : [GREEK]. Ces deux passages ont fort embarrassé les interprêtes. Bochart* a torturé le nom de Sémiramis pour y trouver le sens indiqué par Hésychius ; il suppose que [GREEK] est pour [GREEK], qu'il tire des deux mots arabes [ARABIC], « montagne, » et [ARABIC], « colombe ; » mais cette étymologie forcée, comme ne le sont que trop souvent celles du même savant, a été depuis longtemps abandonnée, et avec juste raison. Dalberg* s'est tenu dans des données beaucoup plus vraisemblables quand il a proposé de reconnaître comme élément essentiel du nom le mot syriaque [SVG], « colombe. » Et il n'est guère douteux que ce ne soit à la ressemblance de ce mot avec le nom de Sémiramis que font allusion les explications de Diodore et d'Hésychius. Mais est-ce bien la véritable étymologie, et n'est-ce pas plutôt une allitération postérieure, par laquelle on aura cherché à trouver une parenté entre le nom de la déesse et le mot par lequel on désignait l'oiseau qui était son symbole ? Deux choses me paraissent militer principalement en faveur de la dernière façon de voir : c'est d'abord que _somira_, « colombe, » n'expliquerait l'origine que d'une partie du nom de Sémiramis, et semble bien réellement, au point de vue de la philologie, être avec ce nom dans un rapport d'allitération plutôt que d'étymologie ; puis que le mot duquel il s'agirait de faire dériver [GREEK], n'a laissé aucune trace de son existence en hébreu, en phénicien ou en assyrien, et n'apparait que dans un idiome de date comparativement très-récente.
+
+*) _Symbolik_, l. 4., ch. 3., § 1 ; t. 2., pp. 33 et suiv. de la traduction Guigniaut.
+
+*) _Die Phœnizier_, t. 1, pp. 631 et suiv.
+
+*) 2., 4.
+
+*) _Canaan._, l. 2., c. 12.
+
+*) _Fundgruben des Orients_, t. 1., p 205.
+
+Il faut donc chercher une autre étymologie et une autre explication pour le nom de Sémiramis. Et pour notre part, nous croyons qu'il n'y a rien de mieux à faire que d'en revenir à celle que dès le seizième siècle avait proposé Jacques Capelle. Mais il est nécessaire, avant d'aller plus loin, de citer les remarques si judicieuses de M. le comte de Vogüé* sur les principales formules qui expriment le rapport du dieu femelle avec le dieu mâle dans la religion des Phéniciens et la manière dont le second élément de la dualité sort de l'unité primitive.
+
+« La première formule que nous rencontrons est celle qui est répétée si souvent dans les inscriptions carthaginoises, dans lesquelles Tanit est nommée [HEBREW]. Cette expression signifie proprement _facies, persona Baalis_, et M. de Saulcy* l'a très-heureusement traduite, le premier, manifestation de Baal. M. Zotenberg a démontré qu'elle renfermait en outre une idée d'association conjugale. Tanit ne diffère donc pas essentiellement de Baal ; c'est pour ainsi dire une forme subjective, de la divinité primitive ; une deuxième personne divine, assez distincte de la première pour pouvoir lui être associée conjugalement, mais pourtant n'étant autre que la divinité elle-même dans sa manifestation extérieure. »
+
+« La seconde formule est plus explicite encore : Astarté, la déesse de Sidon, associée dans l'inscription d'Eschmunazar au Baal de Sidon, est qualifiée de [HEBREW], _nomen Baalis_. L'abstraction est plus forte que dans l'exemple précédent : à Carthage, la déesse était une personne divine, ici elle n'est pour ainsi dire plus qu'une locution théologique ; c'est Baal, moins sous un autre aspect que sous un autre nom, et pourtant la personnalité est devenue assez distincte pour qu'en désignant l'ensemble des deux divinités mâle et femelle, l'auteur de l'inscription ait employé le pluriel : il les appelle [HEBREW], « les dieux des Sidomiens. » »
+
+*) _Mélanges d'archéologie orientale_, pp. 53 et suiv.
+
+*) _Revue archéologique_, t. 3., p. 633.
+
+« Astarté est la personnification du nom divin, de ce nom auquel toutes les religions de l'antiquité ont attribué une puissance mystérieuse ; c'est comme un [HEBREW] ayant pris corps. Déjà dans la Bible cette expression se trouve employée dans une acception active qui la rapproche plus de _numen_ que de _nomen_ : elle s'applique aux manifestations extérieures de la puissance suprême ; c'est par la vertu du [HEBREW] divin qu'agit l'ange chargé de communiquer avec les hommes ; c'est le [HEBREW] qui réside dans le temple de Jérusalem ; mais tandis que les Juifs conservent à cette expression sa valeur abstraite, les Phéniciens lui donnent une existence distincte : ils en font une divinité spéciale par une opération semblable à celle qui leur a fait diviniser la _face_ de leur dieu. On ne saurait nier, d'ailleurs, l'analogie qui existe entre ces deux termes [HEBREW] et [HEBREW]. Déjà Gesenius* avait rapproché l'une de l'autre les deux expressions [HEBREW] et [HEBREW], à une époque où les inscriptions phéniciennes étaient ou inconnues, ou mal expliquées, et ne pouvaient avoir aucune influence sur son esprit : les textes épigraphiques donnent une grande valeur à ce rapprochement, qui à son tour jette une vive lumière sur l'origine des mythes phéniciens et la manière dont ils se sont développés. On saisit pour ainsi dire sur le fait la transformation d'idées qui a créé le panthéon : on voit comment les abstractions primitives ont donné naissance au polythéisme. Chez les Hébreux, les notions de _nomen Domini, numen Domini, facies Domini_, ne détruisaient pas plus l'unité divine que les expressions encore plus figurées de _vox Domini, manus Domini_ : chez les Phéniciens, il en était de même au début, mais les notions primitives se sont altérées tout en couservant les formules qui les exprimaient autrefois ; l'idée de la déesse femelle a surgi, idée qui dédoublait pour ainsi dire la puissance créatrice sans détruire son unité essentielle, mais qui ouvrait la porte à toutes les erreurs et à tous les abus du polythéisme pratique. »
+
+*) _Lexic. hebraic._, v° [HEBREW].
+
+Ces remarques sont excellentes et révèlent le plus juste sentiment de l'esprit religieux de l'antiquité. Mais il ne faut pas les borner aux Phéniciens ; elles doivent être étendues à tout l'ensemble commun des religions de la Syrie et du bassin de l'Euphrate et du Tigre. Nous avons nous-même indiqué ailleurs* que dans la religion de Babylone et de l'Assyrie les divinités féminines étaient formées de la même manière et étaient également le [HEBREW] ou le [HEBREW] du dieu mâle correspondant.
+
+Dès lors comment ne pas comparer le nom de Sémiramis à celui de [HEBREW] et ne pas y voir une expression de même nature, [HEBREW], _nomen excelsum_, en assyrien _s'umu-rim_ ou _sammu-rim_ ? Nous n'y sommes pas seulement autorisés, mais conduits forcément, quand nous trouvons dans la Bible* le nom propre d'homme, évidemment emprunté à une divinité comme tant d'autres chez les Sémites, [HEBREW], _nomen altitudinum_, c'est-à-dire _nomen altissimum_, dont Gesenius* et Movers* ont déjà établi l'identité avec celui de la déesse Sémiramis. Et ce nom propre se retrouve identiquement dans celui de la reine _Sammu-ramat_,* épouse de _Bin-nirari_ 3, la Sémiramis d'Hérodote et la seule historique ; car, de même qu'au [HEBREW] hébraïque correspond l'arabe [ARABIC], de même l'assyrien avait, pour exprimer l'idée de « nom, » les deux formes parallèles _s'umu_ et _sammu_, [HEBREW] et [HEBREW]. A côté des noms contenant une prière à tel ou tel dieu ou une indication d'appartenance et de subordination à la divinité, il y avait chez les Chaldéo-Assyriens une classe nombreuse de noms propres se composant d'un nom divin suivi d'une épithète, comme _Samdan-malik_, « _Samdan_ roi, » _As's'ur-edil-ilani_, « _As's'ur_ arbitre des dieux, » _Nabu-na'id_, « Nabu majestueux. » C'est donc purement et simplement le nom de la déesse _Sammu-ramat_ ou Sémiramis qu'a pris la reine _Sammu-ramat_, laquelle vivait dans les dernières années du neuvième siècle et les premières du huitième.
+
+*) _Essai de commentaire des fragments cosmogoniques de Bérose_, pp. 64 et 69.
+
+*) 1. Chron., 15., 18 et 20 ; 16., 5 ; 2. Chron., 17., 8.
+
+*) _Lexic. hebraic._, s. v.
+
+*) _Die Phœnizier_, t. 1., p. 632.
+
+*) Voy. nos _Lettres assyriologiques_, t. 1., p. 201.
+
+La décomposition que nous adoptons pour le nom de Sémiramis, et que ces rapprochements nous paraissent rendre certaine, est encore confirmée dans la légende de Ctésias par l'introduction du personnage de _Simmas_, [HEBREW], qui élève l'enfant nourri d'abord par les colombes. Au reste, il est facile de trouver des traces nombreuses de l'adoration du [HEBREW] divin dans la religion des bords de l'Euphrate et du Tigre. Les inscriptions cunéiformes mentionnent souvent le _s'um_, le nom des grands dieux, comme une puissance active qui protége les rois et leur donne la victoire, de même que la _tuklati_ de ces mêmes dieux, leur adoration, qui finit par devenir une entité subjective, une véritable puissance divine, comme le sacrifice, _kratu_, chez les Aryas vêdiques.*
+
+Quant à la conception de ce [HEBREW] comme une personne divine distincte, nous croyons que Movers* a eu pleinement raison d'en voir une mention dans ce que dit Lucien* du simulacre mystérieux et à l'aspect ambigu qui, dans le temple d'Hiérapolis ou Bambyce, était placé entre les statues du dieu mâle et de la déesse féminine, et que quelques-uns regardaient comme Sémiramis, à cause de la colombe posée sur sa tête : [GREEK]. Ceci est confirmé par une phrase du si curieux passage de l'Apologie adressée à Marc-Aurêle par Saint-Méliton, dans lequel il passe en revue un grand nombre de cultes de l'Asie antérieure, en les présentant dans un esprit de complet evhémérisme et avec les transformations que leur avait fait subir un syncrétisme souvent bizarre, mais aussi avec des indications de haut prix que l'on chercherait vainement ailleurs : « Quant à Nébo, qui est à Mabug, pourquoi vous en écrirais-je ? Les prêtres de Mabug savent que c'est la statue d'Orphée, mage de Thrace. Hadran est de même la statue de Zaraduscht, mage persan. Ces deux mages pratiquèrent leurs enchantements sur un puits situé dans la forêt de Mabug, dans lequel était un esprit impur, qui molestait et attaquait tous ceux qui passaient par l'endroit où est assise maintenant la citadelle de Mabug. Et ces mages chargèrent Simi, fille de Hadad, de puiser de l'eau de la mer et de la jeter dans le puits, afin que l'esprit ne sortît plus pour infester le pays, conformément aux secrets de leur magie.* » Le nom de _Simi_, [SVG], est incontestablement le même que le [GREEK] de Lucien.
+
+*) C'est ce qu'établit d'une manière toute spéciale une importante tablette mythologique et théogonique (_Cuneif. inscr. of West. As._, t. 3., pl. 69, n° 3), où, à la suite de divers groupes de divinités de second ordre, sont énumérées les _tuklati_ des grands dieux comme des divinités ayant une existence personnelle. Dans l'état actuel de la tablette, qui est brisée, l'énumération comprend les _tuklati_ de _Bel_, de _Marduk_, de _Bin_, d'_Adar_, de _Zagar_ et de _Nirgal_.
+
+*) _Die Phœnizier_, t. 1., p. 632.
+
+*) _De dea Syr._, 33.
+
+Nous avons une autre trace de la conception du [HEBREW] comme une personne distincte dans le [GREEK] dont le héros guerrier et conquérant de l'Assyrie est dit fils dans la version du mythe où il est appelé lui-même [GREEK], « le taureau.* » Ce [GREEK] remplace d'ailleurs Ninyas comme fils de Sémiramis dans plusieurs versions de l'histoire légendaire d'Assyrie.* Ceci nous amène à reconnaître un [HEBREW], ou fils du [HEBREW] divin personnifié, dans le grand dieu de Hatra, ville de la Mésopotamie araméenne, _Barsames_,* d'après lequel les rois de cette ville, au temps des empereurs romains, s'intitulaient _Barsemii_.* Moïse de Khorène* a conservé une curieuse légende dans laquelle ce _Barsames_ est présenté sous des traits exactement semblables à ceux ordinairement donnés à Ninus, où il est le héros belliqueux et conquérant qui fonde la puissance divine. C'est un des exemples les plus caractérisés où le rôle attribué habituellement à l'époux de Sémiramis ou du [HEBREW] divin personnifié passe à son fils.
+
+Ces derniers rapprochements achèvent, croyons-nous, de justifier et d'établir l'étymologie que nous admettons pour le nom de Sémiramis et complètent l'étude que nous avions entreprise de ce personnage divin, qui doit être définitivement rayé de l'histoire.
+
+*) Publié par M. Renan, _Mém. de l'Acad. des Inscr._, nouv. sér., t. 23., 2e part., pp. 322-325.
+
+*) _Chronic. pasch._, t. 1., p. 68, ed. Dindorf.
+
+*) Castor _ap._ Euseb., _Armen. Chron._, p. 37, ed. Mai ; Samuel., _Summar._, p. 26, ed. Mai.
+
+*) Mos. Choren., 2., 13.
+
+*) Herodian., 3., 1, 11.
+
+*) 1., 13.
+
+---
