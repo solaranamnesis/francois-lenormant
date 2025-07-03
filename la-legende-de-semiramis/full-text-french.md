@@ -142,8 +142,7 @@ Cependant, ayant appris que son fils Ninyas lui tendait des embûches, Sémirami
 
 *) Diod. Sic., 2., 5.
 
-*) Nicol. Damasc. _ap._ C. Müller, _Fragm. historic. græc._, t. 3, p. 356 ; Cephalion _ap._ Euseb., 
-_Armen. chron._, p. 41, ed. Mai, _et ap._ Mos. Choren., 1., 17.
+*) Nicol. Damasc. _ap._ C. Müller, _Fragm. historic. græc._, t. 3, p. 356 ; Cephalion _ap._ Euseb., _Armen. chron._, p. 41, ed. Mai, _et ap._ Mos. Choren., 1., 17.
 
 *) Strab., 16., p. 737.
 
