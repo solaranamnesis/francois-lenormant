@@ -888,7 +888,7 @@ L'identité fondamentale du héros Ninus et du dieu _Adar-Ṣamdan_, est encore 
 
 *) Voy. notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 98.
 
-*) Chronic. pasch._, t. 1., p. 68, ed. Dindorf.
+*) _Chronic. pasch._, t. 1., p. 68, ed. Dindorf.
 
 *) H. Rawlinson, dissertation insérée à la suite du tome 1er de l'Hérodote anglais, p. 621 ; et notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 232.
 
