@@ -306,7 +306,7 @@ Ce symbolisme, et les idées sur lesquelles il se fondait, avait passé dans la 
 
 *) Ch. Lenormant, _Nouvelle galerie mythologique_, p. 54.
 
-*) Quæst. græc._, t. 7., p. 205, ed. Reiske.
+*) _Quæst. græc._, t. 7., p. 205, ed. Reiske.
 
 *) Nous comptons étudier plus tard, dans un mémoire spécial, cette notion du dieu-hache et les mythes qui s'y rattachent chez les peuples nombreux où elle s'était propagée.
 
