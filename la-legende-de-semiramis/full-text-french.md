@@ -888,8 +888,7 @@ L'identité fondamentale du héros Ninus et du dieu _Adar-Ṣamdan_, est encore 
 
 *) H. Rawlinson, dissertation insérée à la suite du tome 1er de l'Hérodote anglais, p. 621 ; et notre _Essai de commentaire des fragments cosmogoniques de Bérose_, p. 232.
 
-*) Voy. le mémoire de Lajard sur le taureau et le lion, inséré dans ses _Recherches sur le culte 
-de Vénus_ ; De Vogüé, _Mélanges d'archéologie orientale_, pp. 63 et suiv.
+*) Voy. le mémoire de Lajard sur le taureau et le lion, inséré dans ses _Recherches sur le culte de Vénus_ ; De Vogüé, _Mélanges d'archéologie orientale_, pp. 63 et suiv.
 
 *) Voy. Ch. Lenormant, _Nouvelle galerie mythologique_, p. 63.
 
