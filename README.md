@@ -1,4 +1,4 @@
-# Francois Lenormant.
+# François Lenormant.
 
 Public Domain Works by François Lenormant (1837-1883).
 
